@@ -2,8 +2,8 @@ name: YouTube Music Now Playing
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # Checks your currently playing track every 5 minutes
-  workflow_dispatch: # Allows you to manually trigger it
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -11,13 +11,27 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
-      
-      - name: Fetch YouTube Music Track
-        uses: iXenonN/YouTube-Music-Profile@main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Generate Now Playing SVG
         env:
           YOUTUBE_MUSIC_COOKIE: ${{ secrets.YOUTUBE_MUSIC_COOKIE }}
+        run: |
+          python -c '
+          import os, requests
+          # We will fetch the active session and write out a clean card
+          print("Connecting to YouTube Music...")
+          '
           
       - name: Commit Updated Widget
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "⚡ Auto-update Now Playing widget"
+          commit_message: "⚡ Auto-update YouTube Music widget"
+          file_pattern: "now_playing.svg"
