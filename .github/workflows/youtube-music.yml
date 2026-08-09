@@ -25,18 +25,28 @@ jobs:
           YOUTUBE_MUSIC_COOKIE: ${{ secrets.YOUTUBE_MUSIC_COOKIE }}
         run: |
           python -c '
-          import os
+          import os, json
           from ytmusicapi import YTMusic
 
           cookie = os.environ.get("YOUTUBE_MUSIC_COOKIE")
           
-          # Write out the cookie to a headers file for ytmusicapi
+          # Create the required JSON structure for ytmusicapi
+          headers = {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+              "Accept": "*/*",
+              "Accept-Language": "en-US,en;q=0.5",
+              "Content-Type": "application/json",
+              "X-Goog-AuthUser": "0",
+              "x-origin": "https://music.youtube.com",
+              "Cookie": cookie
+          }
+          
           with open("headers.json", "w") as f:
-              f.write(cookie)
+              json.dump(headers, f)
 
           try:
               yt = YTMusic("headers.json")
-              # Fetch history/recently played or current session
+              # Fetch history/recently played
               history = yt.get_history()
               if history:
                   track = history[0]
@@ -67,7 +77,6 @@ jobs:
           with open("now_playing.svg", "w") as f:
               f.write(svg_content)
           '
-
       - name: Commit Updated Widget
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
