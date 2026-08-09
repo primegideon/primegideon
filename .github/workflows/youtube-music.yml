@@ -1,0 +1,23 @@
+name: YouTube Music Now Playing
+
+on:
+  schedule:
+    - cron: '*/5 * * * *' # Checks your currently playing track every 5 minutes
+  workflow_dispatch: # Allows you to manually trigger it
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+      
+      - name: Fetch YouTube Music Track
+        uses: iXenonN/YouTube-Music-Profile@main
+        env:
+          YOUTUBE_MUSIC_COOKIE: ${{ secrets.YOUTUBE_MUSIC_COOKIE }}
+          
+      - name: Commit Updated Widget
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "⚡ Auto-update Now Playing widget"
