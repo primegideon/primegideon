@@ -26,3 +26,9 @@
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=primegideon&layout=compact&theme=dark&hide_border=true" alt="WakaTime Stats" width="60%" />
 </div>
+
+<br>
+<h3 align="center">🎧 Coding Vibes</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/primegideon/primegideon/main/now_playing.svg" alt="YouTube Music Now Playing" width="60%" />
+</div>
