@@ -32,6 +32,16 @@
         <animate attributeName="width" from="0" to="980" dur="3s" begin="2.0s" fill="freeze" />
       </rect>
     </clipPath>
+    <clipPath id="revealMid">
+      <rect x="60" y="140" width="0" height="70">
+        <animate attributeName="width" from="0" to="1080" dur="3s" begin="0.8s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="revealBottom">
+      <rect x="60" y="190" width="0" height="70">
+        <animate attributeName="width" from="0" to="1080" dur="3s" begin="2.8s" fill="freeze" />
+      </rect>
+    </clipPath>
   </defs>
 
   <rect width="1200" height="320" fill="url(#bg)" />
@@ -71,8 +81,8 @@
   </path>
 
   <text x="50%" y="120" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-style="italic" fill="#c9d1d9">Hi, I'm Gideon.</text>
-  <text x="50%" y="165" text-anchor="middle" font-family="'Times New Roman', Georgia, serif" font-size="42" font-weight="700" fill="#ffffff">Building at the intersection of math and tech.</text>
-  <text x="50%" y="210" text-anchor="middle" font-family="'Trebuchet MS', Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="3" fill="#8b949e" text-transform="uppercase">DATA &amp; CLOUD • ACTUARIAL SCIENCE @ UCC • ACCRA • LEVEL 400</text>
+  <text x="50%" y="165" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="32" font-weight="700" fill="#ffffff" clip-path="url(#revealMid)">Building at the intersection of math and tech.</text>
+  <text x="50%" y="210" text-anchor="middle" font-family="'Trebuchet MS', Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="3" fill="#8b949e" text-transform="uppercase" clip-path="url(#revealBottom)">DATA &amp; CLOUD • ACTUARIAL SCIENCE @ UCC • ACCRA • LEVEL 400</text>
 
   <g clip-path="url(#revealCaret)">
     <rect x="890" y="174" width="8" height="40" fill="#c4b5fd">

@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 60" width="850" height="60">
   <style>
     .text {
-      /* Elegant Script/Cursive Font Stack */
-      font-family: 'Brush Script MT', 'Lucida Handwriting', 'Segoe Script', 'Apple Chancery', cursive;
-      font-weight: 500;
-      font-size: 28px; /* Increased size for script readability */
-      fill: #c9d1d9; 
-      /* The chromatic aberration effect */
-      text-shadow: -1px 0px 0px #00FFFF, 1px 0px 0px #FF5722;
+      /* Professional Serif Font Stack */
+      font-family: Georgia, 'Times New Roman', serif;
+      font-weight: 600;
+      font-size: 24px;
+      fill: #E6EEF8;
+      /* subtle chromatic hint preserved */
+      text-shadow: -1px 0px 0px rgba(0,255,255,0.06), 1px 0px 0px rgba(255,87,34,0.06);
       opacity: 0;
     }
 

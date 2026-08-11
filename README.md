@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="./banner.svg" alt="Banner: Combining actuarial precision with data-driven innovation" width="100%" />
+  <img src="./assets/banner.svg" alt="Banner: Combining actuarial precision with data-driven innovation" width="100%" />
 </div>
 <!-- 2. The Typewriter Animation -->
-  <img src="typewriter.svg" alt="Intro Animation" width="850" />
+  <img src="./assets/typewriter.svg" alt="Intro Animation" width="850" />
 
 </div>
 
@@ -20,9 +20,8 @@
     <img src="https://img.shields.io/badge/PORTFOLIO-LINKEDIN-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=212121" alt="Portfolio" />
   </a>
 
-
   <!-- The Glowing Divider -->
-  <img src="flux-divider.svg" alt="Divider" width="850" />
+  <img src="assets/flux-divider.svg" alt="Divider" width="850" />
 
 </div>
 
@@ -35,18 +34,14 @@ education:  University of Cape Coast · BSc Actuarial Science · Level 400
 latest:     Architected a cloud-integrated insurance risk evaluation system
 building:   ML Fare Predictor · Ride-and-Share Analytics Pipeline
 learning:   AWS Cloud Infrastructure Foundations · Full-Stack Development
-mission:    Bridging actuarial math and complex risk with scalable, data-driven architecture
+Leadership: Former Co-Lead for the TEDxUniversityofCapeCoast Kintsugi event.
 location:   Accra, Ghana (GMT)
 contact:    gideon.owusu006@stu.ucc.edu.gh
 ```
-* **Recently built** a **Cloud-Integrated Insurance Risk Evaluation System** utilizing FastAPI, Streamlit, Supabase, and IBM Watsonx.ai Granite models.
-* **Just shipped** a **Machine Learning Fare Predictor** and a Ride-and-Share data analytics pipeline leveraging BigQuery and Python.
-* **Currently mastering** **AWS Cloud Infrastructure Foundations** and full-stack development through IBM SkillsBuild and Udacity.
-* **Previously** interned in Data Analytics at **Thrive Africa** and Operations at **Prudential Life Insurance**.
-* **Leadership** Former Co-Lead for the **TEDxUniversityofCapeCoast** Kintsugi event.
+
 * **Ask me about** Actuarial Science, data architecture, cloud foundations, and the Ghanaian tech scene.
  <!-- The Glowing Divider -->
-  <img src="flux-divider.svg" alt="Divider" width="850" />
+  <img src="assets/flux-divider.svg" alt="Divider" width="850" />
   <br>
 <h3 align="center">Featured Learning & Certifications</h3>
 
@@ -58,7 +53,7 @@ contact:    gideon.owusu006@stu.ucc.edu.gh
   More on <a href="https://www.linkedin.com/in/gideon-amoah09/">LinkedIn</a>
 </p>
  <!-- The Glowing Divider -->
-  <img src="flux-divider.svg" alt="Divider" width="850" />
+  <img src="assets/flux-divider.svg" alt="Divider" width="850" />
 
  <br>
 <h3 align="center">Tech Stack & Tools</h3>
@@ -112,7 +107,7 @@ contact:    gideon.owusu006@stu.ucc.edu.gh
 
 <div align="center">
   <!-- Top Flux Divider -->
-  <img src="flux-divider.svg" alt="Divider" width="850" />
+  <img src="assets/flux-divider.svg" alt="Divider" width="850" />
   
   <br><br>
   
@@ -128,7 +123,7 @@ contact:    gideon.owusu006@stu.ucc.edu.gh
   <br><br>
   
   <!-- Bottom Flux Divider -->
-  <img src="flux-divider.svg" alt="Divider" width="850" />
+  <img src="assets/flux-divider.svg" alt="Divider" width="850" />
 </div>
 
 <br>
@@ -146,7 +141,7 @@ contact:    gideon.owusu006@stu.ucc.edu.gh
 
 <br><br>
   <!-- Bottom Flux Divider -->
-  <img src="flux-divider.svg" alt="Divider" width="850" />
+  <img src="assets/flux-divider.svg" alt="Divider" width="850" />
 
   <br>
 
@@ -165,10 +160,9 @@ contact:    gideon.owusu006@stu.ucc.edu.gh
 
 <br><br>
   <!-- Bottom Flux Divider -->
-  <img src="flux-divider.svg" alt="Divider" width="850" />
+  <img src="assets/flux-divider.svg" alt="Divider" width="850" />
 
-  <br><br>
-
+  
 <div align="center">
   <h3>Let's Connect</h3>
   <br>
@@ -187,7 +181,7 @@ contact:    gideon.owusu006@stu.ucc.edu.gh
   </a>
 <br><br>
   <!-- Bottom Flux Divider -->
-  <img src="flux-divider.svg" alt="Divider" width="850" /> 
+  <img src="assets/flux-divider.svg" alt="Divider" width="850" /> 
 
   <br>
 
@@ -197,26 +191,22 @@ contact:    gideon.owusu006@stu.ucc.edu.gh
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=0D1117&quoteColor=00FFFF&authorColor=58A6FF&symbolColor=B362FF" alt="Random Programming Quote" />
   </a>
 </div>
-<br><br>
 
 <div align="center">
   <!-- Interactive Wavy SVG Banner -->
-  <img src="wave.svg" alt="Wavy Banner" width="850" />
+  <img src="assets/wave.svg" alt="Wavy Banner" width="850" />
   
-  <br><br>
+<br><br>
 
-  <!-- Credit & Attribution -->
-  <p style="font-size: 0.85em;">
-    Credit: Inspired by <a href="https://github.com/stephensookra">@stephensookra</a>
-  </p>
-  
-  <p style="font-size: 0.8em;">
-    Built by <a href="https://github.com/primegideon">@primegideonn</a> · Amrahia, Ghana · <i> working at the intersection of numbers and tech</i>
-  </p>
-  
-  <p style="color: #79C0FF; font-size: 0.7em;">
-    Last edited: August 2026
-  </p>
-</div>
+<p align="center">
+  <sub>
+    <b>Credit:</b> Inspired by <a href="https://github.com/StephenSook">@stephensookra</a><br>
+    Built by <a href="https://github.com/primegideon">@primegideon</a> · Amrahia, Ghana · <i>working at the intersection of numbers and tech</i>
+  </sub>
+</p>
+
+<p align="center">
+  <sub><sub>Last edited: August 2026</sub></sub>
+</p>
 
 <br>
