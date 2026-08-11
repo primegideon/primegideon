@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 60" width="850" height="60">
+  <style>
+    .text {
+      /* Elegant Script/Cursive Font Stack */
+      font-family: 'Brush Script MT', 'Lucida Handwriting', 'Segoe Script', 'Apple Chancery', cursive;
+      font-weight: 500;
+      font-size: 28px; /* Increased size for script readability */
+      fill: #c9d1d9; 
+      /* The chromatic aberration effect */
+      text-shadow: -1px 0px 0px #00FFFF, 1px 0px 0px #FF5722;
+      opacity: 0;
+    }
+
+    /* 20-second loop staggered by 4 seconds */
+    .phrase1 { animation: cycle 20s infinite; }
+    .phrase2 { animation: cycle 20s infinite 4s; }
+    .phrase3 { animation: cycle 20s infinite 8s; }
+    .phrase4 { animation: cycle 20s infinite 12s; }
+    .phrase5 { animation: cycle 20s infinite 16s; }
+
+    @keyframes cycle {
+      0% { clip-path: polygon(0 0, 0 0, 0 100%, 0 100%); opacity: 1; }
+      5% { clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%); opacity: 1; } 
+      16% { clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%); opacity: 1; } 
+      20% { clip-path: polygon(0 0, 0 0, 0 100%, 0 100%); opacity: 1; } 
+      20.1% { opacity: 0; clip-path: polygon(0 0, 0 0, 0 100%, 0 100%); } 
+      100% { opacity: 0; clip-path: polygon(0 0, 0 0, 0 100%, 0 100%); }
+    }
+  </style>
+
+  <!-- Centered Phrases -->
+  <g text-anchor="middle">
+    <text x="50%" y="40" class="text phrase1">Final-year Actuarial Science student @ UCC</text>
+    <text x="50%" y="40" class="text phrase2">Specializing in engineering data-driven solutions</text>
+    <text x="50%" y="40" class="text phrase3">Bridging complex actuarial math with technology</text>
+    <text x="50%" y="40" class="text phrase4">Wanna chat about data, cloud projects, or tech innovations?</text>
+    <text x="50%" y="40" class="text phrase5">Feel free to reach out!</text>
+  </g>
+</svg>

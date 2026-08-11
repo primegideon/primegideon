@@ -1,0 +1,25 @@
+<svg width="850" height="120" viewBox="0 0 850 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Wave Gradient -->
+    <linearGradient id="bg-wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#006699" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#663399" stop-opacity="0.7" />
+    </linearGradient>
+    
+    <!-- Foreground Wave Gradient -->
+    <linearGradient id="fg-wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00FFFF" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#B362FF" stop-opacity="0.9" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background Wave (Slower, reversed phase) -->
+  <path fill="url(#bg-wave)" d="M 0 60 Q 212.5 100 425 60 T 850 60 T 1275 60 T 1700 60 L 1700 120 L 0 120 Z">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-850 0" dur="8s" repeatCount="indefinite" />
+  </path>
+  
+  <!-- Foreground Wave (Faster) -->
+  <path fill="url(#fg-wave)" d="M 0 70 Q 212.5 30 425 70 T 850 70 T 1275 70 T 1700 70 L 1700 120 L 0 120 Z">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-850 0" dur="5s" repeatCount="indefinite" />
+  </path>
+</svg>
