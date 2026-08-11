@@ -1,0 +1,30 @@
+name: Generate Cyberpunk City
+
+on:
+  # Run automatically every 24 hours
+  schedule:
+    - cron: "0 0 * * *" 
+  
+  # Allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      - name: Build 3D City Skyline
+        uses: honzaap/GithubCity@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          
+      - name: Commit and Push City Snapshot
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "Auto-generated Cyberpunk City Skyline"
+          git push
