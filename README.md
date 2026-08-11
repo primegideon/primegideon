@@ -201,7 +201,7 @@ contact:    gideon.owusu006@stu.ucc.edu.gh
 <p align="center">
   <sub>
     <b>Credit:</b> Inspired by <a href="https://github.com/StephenSook">@stephensookra</a><br>
-    Built by <a href="https://github.com/primegideon">@primegideon</a> · Amrahia, Ghana · <i>working at the intersection of numbers and tech</i>
+    Built by <a href="https://github.com/primegideon">@primegideon</a> · Accra · <i>working at the intersection of numbers and tech</i>
   </sub>
 </p>
 
