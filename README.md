@@ -45,12 +45,12 @@
       <sup><b>⬡ AI &amp; MULTI-AGENT ORCHESTRATION</b></sup>
     </td>
     <td align="left">
-      <img src="https://github.com/IBM.png?size=96" alt="IBM Watsonx.ai" title="IBM Watsonx.ai" width="24" height="24" style="background:#252A3A;border-radius:6px;padding:4px;margin:1px;" />
-      <img src="https://api.iconify.design/simple-icons:googlegemini.svg?color=%238E75B2" alt="Google Gemini" title="Google Gemini" width="24" height="24" style="background:#252A3A;border-radius:6px;padding:4px;margin:1px;" />
-      <img src="https://github.com/openai.png?size=64" alt="OpenAI" title="OpenAI" width="24" height="24" style="background:#252A3A;border-radius:6px;padding:4px;margin:1px;" />
-      <img src="https://github.com/groq.png?size=64" alt="Groq" title="Groq" width="24" height="24" style="background:#252A3A;border-radius:6px;padding:4px;margin:1px;" />
-      <img src="https://api.iconify.design/simple-icons:meta.svg?color=%230467DF" alt="Llama 3" title="Llama 3" width="24" height="24" style="background:#252A3A;border-radius:6px;padding:4px;margin:1px;" />
-      <img src="https://api.iconify.design/simple-icons:github.svg?color=%23238636" alt="GitHub Models" title="GitHub Models" width="24" height="24" style="background:#252A3A;border-radius:6px;padding:4px;margin:1px;" />
+      <img src="https://github.com/IBM.png?size=96" alt="IBM Watsonx.ai" title="IBM Watsonx.ai" width="32" height="32" style="background:#252A3A;border-radius:8px;padding:6px;margin:2px;" />
+      <img src="https://api.iconify.design/simple-icons:googlegemini.svg?color=%238E75B2" alt="Google Gemini" title="Google Gemini" width="32" height="32" style="background:#252A3A;border-radius:8px;padding:6px;margin:2px;" />
+      <img src="https://github.com/openai.png?size=64" alt="OpenAI" title="OpenAI" width="32" height="32" style="background:#252A3A;border-radius:8px;padding:6px;margin:2px;" />
+      <img src="https://github.com/groq.png?size=64" alt="Groq" title="Groq" width="32" height="32" style="background:#252A3A;border-radius:8px;padding:6px;margin:2px;" />
+      <img src="https://api.iconify.design/simple-icons:meta.svg?color=%230467DF" alt="Llama 3" title="Llama 3" width="32" height="32" style="background:#252A3A;border-radius:8px;padding:6px;margin:2px;" />
+      <img src="https://api.iconify.design/simple-icons:github.svg?color=%23238636" alt="GitHub Models" title="GitHub Models" width="32" height="32" style="background:#252A3A;border-radius:8px;padding:6px;margin:2px;" />
     </td>
   </tr>
 
@@ -60,9 +60,9 @@
       <sup><b>⬢ AI FRAMEWORKS &amp; SDKS</b></sup>
     </td>
     <td align="left">
-      <img src="https://api.iconify.design/simple-icons:langchain.svg?color=%2300D8FF" alt="LangChain" title="LangChain" width="24" height="24" style="background:#252A3A;border-radius:6px;padding:4px;margin:1px;" />
-      <img src="https://api.iconify.design/simple-icons:langflow.svg?color=%23FF6B6B" alt="Langflow" title="Langflow" width="24" height="24" style="background:#252A3A;border-radius:6px;padding:4px;margin:1px;" />
-      <img src="https://api.iconify.design/simple-icons:vercel.svg?color=%23FFFFFF" alt="Vercel AI SDK" title="Vercel AI SDK" width="24" height="24" style="background:#252A3A;border-radius:6px;padding:4px;margin:1px;" />
+      <img src="https://api.iconify.design/simple-icons:langchain.svg?color=%2300D8FF" alt="LangChain" title="LangChain" width="32" height="32" style="background:#252A3A;border-radius:8px;padding:6px;margin:2px;" />
+      <img src="https://api.iconify.design/simple-icons:langflow.svg?color=%23FF6B6B" alt="Langflow" title="Langflow" width="32" height="32" style="background:#252A3A;border-radius:8px;padding:6px;margin:2px;" />
+      <img src="https://api.iconify.design/simple-icons:vercel.svg?color=%23FFFFFF" alt="Vercel AI SDK" title="Vercel AI SDK" width="32" height="32" style="background:#252A3A;border-radius:8px;padding:6px;margin:2px;" />
     </td>
   </tr>
 
@@ -72,9 +72,9 @@
       <sup><b>☁ CLOUD &amp; INFRASTRUCTURE</b></sup>
     </td>
     <td align="left">
-      <img src="https://github.com/aws.png?size=96" alt="AWS" title="AWS" width="24" height="24" style="background:#252A3A;border-radius:6px;padding:4px;margin:1px;" />
-      <img src="https://api.iconify.design/logos:aws-ec2.svg" alt="AWS EC2" title="AWS EC2" width="24" height="24" style="background:#252A3A;border-radius:6px;padding:4px;margin:1px;" />
-      <img src="https://api.iconify.design/logos:aws-s3.svg" alt="AWS S3" title="AWS S3" width="24" height="24" style="background:#252A3A;border-radius:6px;padding:4px;margin:1px;" />
+      <img src="https://github.com/aws.png?size=96" alt="AWS" title="AWS" width="32" height="32" style="background:#252A3A;border-radius:8px;padding:6px;margin:2px;" />
+      <img src="https://api.iconify.design/logos:aws-ec2.svg" alt="AWS EC2" title="AWS EC2" width="32" height="32" style="background:#252A3A;border-radius:8px;padding:6px;margin:2px;" />
+      <img src="https://api.iconify.design/logos:aws-s3.svg" alt="AWS S3" title="AWS S3" width="32" height="32" style="background:#252A3A;border-radius:8px;padding:6px;margin:2px;" />
     </td>
   </tr>
 
@@ -84,12 +84,12 @@
       <sup><b>◈ DATA ARCHITECTURE &amp; VIZ</b></sup>
     </td>
     <td align="left">
-      <img src="https://api.iconify.design/simple-icons:googlebigquery.svg?color=%23669DF6" alt="Google BigQuery" title="Google BigQuery" width="24" height="24" style="background:#252A3A;border-radius:6px;padding:4px;margin:1px;" />
-      <img src="https://api.iconify.design/simple-icons:looker.svg?color=%234285F4" alt="Google Looker Studio" title="Google Looker Studio" width="24" height="24" style="background:#252A3A;border-radius:6px;padding:4px;margin:1px;" />
-      <img src="https://api.iconify.design/simple-icons:anaconda.svg?color=%2344A833" alt="Anaconda" title="Anaconda" width="24" height="24" style="background:#252A3A;border-radius:6px;padding:4px;margin:1px;" />
-      <img src="https://api.iconify.design/simple-icons:numpy.svg?color=%234D77CF" alt="NumPy" title="NumPy" width="24" height="24" style="background:#252A3A;border-radius:6px;padding:4px;margin:1px;" />
-      <img src="https://api.iconify.design/simple-icons:pandas.svg?color=%23150458" alt="Pandas" title="Pandas" width="24" height="24" style="background:#252A3A;border-radius:6px;padding:4px;margin:1px;" />
-      <img src="https://github.com/matplotlib.png?size=64" alt="Matplotlib" title="Matplotlib" width="24" height="24" style="background:#252A3A;border-radius:6px;padding:4px;margin:1px;" />
+      <img src="https://api.iconify.design/simple-icons:googlebigquery.svg?color=%23669DF6" alt="Google BigQuery" title="Google BigQuery" width="32" height="32" style="background:#252A3A;border-radius:8px;padding:6px;margin:2px;" />
+      <img src="https://api.iconify.design/simple-icons:looker.svg?color=%234285F4" alt="Google Looker Studio" title="Google Looker Studio" width="32" height="32" style="background:#252A3A;border-radius:8px;padding:6px;margin:2px;" />
+      <img src="https://api.iconify.design/simple-icons:anaconda.svg?color=%2344A833" alt="Anaconda" title="Anaconda" width="32" height="32" style="background:#252A3A;border-radius:8px;padding:6px;margin:2px;" />
+      <img src="https://api.iconify.design/simple-icons:numpy.svg?color=%234D77CF" alt="NumPy" title="NumPy" width="32" height="32" style="background:#252A3A;border-radius:8px;padding:6px;margin:2px;" />
+      <img src="https://api.iconify.design/simple-icons:pandas.svg?color=%23150458" alt="Pandas" title="Pandas" width="32" height="32" style="background:#252A3A;border-radius:8px;padding:6px;margin:2px;" />
+      <img src="https://github.com/matplotlib.png?size=64" alt="Matplotlib" title="Matplotlib" width="32" height="32" style="background:#252A3A;border-radius:8px;padding:6px;margin:2px;" />
     </td>
   </tr>
 
@@ -99,10 +99,10 @@
       <sup><b>⟨/⟩ LANGUAGES &amp; BACKEND</b></sup>
     </td>
     <td align="left">
-      <img src="https://api.iconify.design/simple-icons:python.svg?color=%233776AB" alt="Python" title="Python" width="24" height="24" style="background:#252A3A;border-radius:6px;padding:4px;margin:1px;" />
-      <img src="https://api.iconify.design/simple-icons:postgresql.svg?color=%234169E1" alt="SQL" title="SQL" width="24" height="24" style="background:#252A3A;border-radius:6px;padding:4px;margin:1px;" />
-      <img src="https://api.iconify.design/simple-icons:c.svg?color=%23A8B9CC" alt="C" title="C" width="24" height="24" style="background:#252A3A;border-radius:6px;padding:4px;margin:1px;" />
-      <img src="https://api.iconify.design/simple-icons:fastapi.svg?color=%23009688" alt="FastAPI" title="FastAPI" width="24" height="24" style="background:#252A3A;border-radius:6px;padding:4px;margin:1px;" />
+      <img src="https://api.iconify.design/simple-icons:python.svg?color=%233776AB" alt="Python" title="Python" width="32" height="32" style="background:#252A3A;border-radius:8px;padding:6px;margin:2px;" />
+      <img src="https://api.iconify.design/simple-icons:postgresql.svg?color=%234169E1" alt="SQL" title="SQL" width="32" height="32" style="background:#252A3A;border-radius:8px;padding:6px;margin:2px;" />
+      <img src="https://api.iconify.design/simple-icons:c.svg?color=%23A8B9CC" alt="C" title="C" width="32" height="32" style="background:#252A3A;border-radius:8px;padding:6px;margin:2px;" />
+      <img src="https://api.iconify.design/simple-icons:fastapi.svg?color=%23009688" alt="FastAPI" title="FastAPI" width="32" height="32" style="background:#252A3A;border-radius:8px;padding:6px;margin:2px;" />
     </td>
   </tr>
 
@@ -112,10 +112,10 @@
       <sup><b>◇ MARKUP &amp; STYLING</b></sup>
     </td>
     <td align="left">
-      <img src="https://api.iconify.design/simple-icons:html5.svg?color=%23E34F26" alt="HTML5" title="HTML5" width="24" height="24" style="background:#252A3A;border-radius:6px;padding:4px;margin:1px;" />
-      <img src="https://api.iconify.design/simple-icons:css.svg?color=%231572B6" alt="CSS3" title="CSS3" width="24" height="24" style="background:#252A3A;border-radius:6px;padding:4px;margin:1px;" />
-      <img src="https://api.iconify.design/simple-icons:markdown.svg?color=%23FFFFFF" alt="Markdown" title="Markdown" width="24" height="24" style="background:#252A3A;border-radius:6px;padding:4px;margin:1px;" />
-      <img src="https://api.iconify.design/simple-icons:svg.svg?color=%23FFB13B" alt="SVG" title="SVG" width="24" height="24" style="background:#252A3A;border-radius:6px;padding:4px;margin:1px;" />
+      <img src="https://api.iconify.design/simple-icons:html5.svg?color=%23E34F26" alt="HTML5" title="HTML5" width="32" height="32" style="background:#252A3A;border-radius:8px;padding:6px;margin:2px;" />
+      <img src="https://api.iconify.design/simple-icons:css.svg?color=%231572B6" alt="CSS3" title="CSS3" width="32" height="32" style="background:#252A3A;border-radius:8px;padding:6px;margin:2px;" />
+      <img src="https://api.iconify.design/simple-icons:markdown.svg?color=%23FFFFFF" alt="Markdown" title="Markdown" width="32" height="32" style="background:#252A3A;border-radius:8px;padding:6px;margin:2px;" />
+      <img src="https://api.iconify.design/simple-icons:svg.svg?color=%23FFB13B" alt="SVG" title="SVG" width="32" height="32" style="background:#252A3A;border-radius:8px;padding:6px;margin:2px;" />
     </td>
   </tr>
 
@@ -125,8 +125,8 @@
       <sup><b>⎇ VERSION CONTROL</b></sup>
     </td>
     <td align="left">
-      <img src="https://api.iconify.design/simple-icons:git.svg?color=%23F05032" alt="Git" title="Git" width="24" height="24" style="background:#252A3A;border-radius:6px;padding:4px;margin:1px;" />
-      <img src="https://api.iconify.design/simple-icons:github.svg?color=%23FFFFFF" alt="GitHub" title="GitHub" width="24" height="24" style="background:#252A3A;border-radius:6px;padding:4px;margin:1px;" />
+      <img src="https://api.iconify.design/simple-icons:git.svg?color=%23F05032" alt="Git" title="Git" width="32" height="32" style="background:#252A3A;border-radius:8px;padding:6px;margin:2px;" />
+      <img src="https://api.iconify.design/simple-icons:github.svg?color=%23FFFFFF" alt="GitHub" title="GitHub" width="32" height="32" style="background:#252A3A;border-radius:8px;padding:6px;margin:2px;" />
     </td>
   </tr>
 </table>
