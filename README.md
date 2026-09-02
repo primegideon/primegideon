@@ -23,35 +23,13 @@
   <!-- The Glowing Divider -->
   <img src="assets/flux-divider.svg" alt="Divider" width="850" />
 
-</div>
-
-<h2 align="center">About Me</h2>
-
-```yaml
-name:       Gideon Amoah
-role:       Actuarial Science Student & Data/Cloud Enthusiast 
-education:  University of Cape Coast · BSc Actuarial Science · Level 400
-latest:     Architected a cloud-integrated insurance risk evaluation system
-building:   ML Fare Predictor · Ride-and-Share Analytics Pipeline
-learning:   AWS Cloud Infrastructure Foundations · Full-Stack Development
-Leadership: Former Co-Lead for the TEDxUniversityofCapeCoast Kintsugi event.
-location:   Accra, Ghana (GMT)
-contact:    gideon.owusu006@stu.ucc.edu.gh
-```
-
-* **Ask me about** Actuarial Science, data architecture, cloud foundations, and the Ghanaian tech scene.
- <!-- The Glowing Divider -->
-  <img src="assets/flux-divider.svg" alt="Divider" width="850" />
-  <br>
 <h3 align="center">Featured Learning & Certifications</h3>
 
 | &nbsp; | &nbsp; |
 | :--- | :--- |
 | 📚 **Google Data Analytics Certificate** <br> *Google Career Certificate* <br><br> End-to-end data processing, from rigorous cleaning and transformation to advanced visualization and reporting. <br><br> <sub>`Data Cleaning` · `SQL` · `Tableau` · `R`</sub> | 📌 **IBM Data Analytics Certificate** <br> *IBM Certificate Program* <br><br> Applied statistical analysis, data-driven decision making, and building advanced analytical workflows. <br><br> <sub>`Python` · `Excel` · `Data Visualization` · `Cognos`</sub> |
 | 💻 **Fullstack Development (Python)** <br> *STARTOCODE - One Million Coders Programme* <br><br> Architecting robust, scalable backend systems and integrating full-stack web applications. <br><br> <sub>`Python` · `FastAPI` · `Backend Architecture` · `Git`</sub> | ☁️ **Future AWS Agentic AI Business Professional** <br> *AWS AI & ML Scholars Program* <br><br> Mastering core AWS cloud infrastructure foundations, focusing strictly on scalable networking, compute, and storage architecture. <br><br> <sub>`Cloud Infrastructure` · `AWS EC2` · `AWS S3` · `IAM`</sub> |
-<p align="center">
-  More on <a href="https://www.linkedin.com/in/gideon-amoah09/">LinkedIn</a>
-</p>
+
  <!-- The Glowing Divider -->
   <img src="assets/flux-divider.svg" alt="Divider" width="850" />
 
@@ -59,49 +37,71 @@ contact:    gideon.owusu006@stu.ucc.edu.gh
 <h3 align="center">Tech Stack & Tools</h3>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="150"><b>Languages</b></td>
-      <td>
-        <!-- Square Tiles -->
-        <img src="https://skillicons.dev/icons?i=python,r,postgres&theme=dark" valign="middle" alt="Python, R, SQL" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><b>Data & Cloud</b></td>
-      <td>
-        <!-- Square Tiles -->
-        <img src="https://skillicons.dev/icons?i=aws,gcp,supabase&theme=dark" valign="middle" alt="AWS, GCP, Supabase" />
-        <!-- Rectangular Badge -->
-        <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white" valign="middle" alt="BigQuery" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><b>Web & Backend</b></td>
-      <td>
-        <!-- Square Tiles -->
-        <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" valign="middle" alt="FastAPI" />
-        <!-- Rectangular Badge -->
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" valign="middle" alt="Streamlit" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><b>AI & Analytics</b></td>
-      <td>
-        <!-- Rectangular Badges -->
-        <img src="https://img.shields.io/badge/IBM_Watsonx-052FAD?style=for-the-badge&logo=ibm&logoColor=white" valign="middle" alt="IBM Watsonx" />
-        <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" valign="middle" alt="Tableau" />
-        <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" valign="middle" alt="Excel" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><b>Tools</b></td>
-      <td>
-        <!-- Square Tiles -->
-        <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" valign="middle" alt="Git, GitHub, VS Code" />
-      </td>
-    </tr>
-  </table>
+
+<!-- ── AI & MULTI-AGENT ORCHESTRATION ── -->
+<table>
+  <tr>
+    <td align="left" width="220">
+      <sup><b>⬡ AI &amp; MULTI-AGENT ORCHESTRATION</b></sup>
+    </td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/IBM%20Watsonx.ai-052FAD?style=for-the-badge&logo=ibm&logoColor=00FFFF&labelColor=0D1117" alt="IBM Watsonx.ai" />
+      <img src="https://img.shields.io/badge/IBM%20Granite-052FAD?style=for-the-badge&logo=ibm&logoColor=00FFFF&labelColor=0D1117" alt="IBM Granite" />
+      <img src="https://img.shields.io/badge/Google%20Gemini-8E44AD?style=for-the-badge&logo=googlegemini&logoColor=00FFFF&labelColor=0D1117" alt="Google Gemini API" />
+      <img src="https://img.shields.io/badge/GitHub%20Models-238636?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=0D1117" alt="GitHub Models" />
+    </td>
+  </tr>
+
+<!-- ── CLOUD & INFRASTRUCTURE ── -->
+  <tr>
+    <td align="left">
+      <sup><b>☁ CLOUD &amp; INFRASTRUCTURE</b></sup>
+    </td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=0D1117&labelColor=0D1117" alt="AWS EC2" />
+      <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=00FFFF&labelColor=0D1117" alt="AWS S3" />
+    </td>
+  </tr>
+
+<!-- ── DATA ARCHITECTURE & VIZ ── -->
+  <tr>
+    <td align="left">
+      <sup><b>◈ DATA ARCHITECTURE &amp; VIZ</b></sup>
+    </td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=00FFFF&labelColor=0D1117" alt="Google BigQuery" />
+      <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=00FFFF&labelColor=0D1117" alt="Google Looker Studio" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=00FFFF&labelColor=0D1117" alt="NumPy" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=00FFFF&labelColor=0D1117" alt="Pandas" />
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=00FFFF&labelColor=0D1117" alt="Matplotlib" />
+    </td>
+  </tr>
+
+<!-- ── LANGUAGES & BACKEND ── -->
+  <tr>
+    <td align="left">
+      <sup><b>⟨/⟩ LANGUAGES &amp; BACKEND</b></sup>
+    </td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=00FFFF&labelColor=0D1117" alt="Python" />
+      <img src="https://img.shields.io/badge/SQL-B362FF?style=for-the-badge&logo=postgresql&logoColor=00FFFF&labelColor=0D1117" alt="SQL" />
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=00FFFF&labelColor=0D1117" alt="C" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=00FFFF&labelColor=0D1117" alt="FastAPI" />
+    </td>
+  </tr>
+
+<!-- ── VERSION CONTROL ── -->
+  <tr>
+    <td align="left">
+      <sup><b>⎇ VERSION CONTROL</b></sup>
+    </td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=00FFFF&labelColor=0D1117" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-B362FF?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=0D1117" alt="GitHub" />
+    </td>
+  </tr>
+</table>
+
 </div>
   <br><br>
 
@@ -162,7 +162,24 @@ contact:    gideon.owusu006@stu.ucc.edu.gh
   <!-- Bottom Flux Divider -->
   <img src="assets/flux-divider.svg" alt="Divider" width="850" />
 
-  
+<br>
+
+<!-- ── NOW PLAYING ─────────────────────────────────────────────────────────── -->
+<div align="center">
+  <h3>Now Playing</h3>
+  <br>
+  <img src="https://now-playing-rho.vercel.app/api/nowplaying" alt="Now Playing" width="740" />
+  <br><br>
+  <a href="https://now-playing-rho.vercel.app/api/yt">
+    <img src="https://img.shields.io/badge/Open_on-YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white&labelColor=0d1117" alt="Open on YouTube Music" />
+  </a>
+  <br><br>
+  <!-- Bottom Flux Divider -->
+  <img src="assets/flux-divider.svg" alt="Divider" width="850" />
+</div>
+
+<br>
+
 <div align="center">
   <h3>Let's Connect</h3>
   <br>
