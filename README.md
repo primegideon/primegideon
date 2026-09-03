@@ -39,12 +39,12 @@
 <div align="center">
 
 <!-- ── AI & MULTI-AGENT ORCHESTRATION ── -->
-<table width="100%" cellpadding="16" cellspacing="0">
+<table width="100%" cellpadding="16" cellspacing="0" style="width:100%;table-layout:fixed;">
   <tr>
     <td align="left" width="220">
       <sup><b>⬡ AI &amp; MULTI-AGENT ORCHESTRATION</b></sup>
     </td>
-    <td align="left" width="36%">
+    <td align="left" width="28%">
       <img src="https://github.com/IBM.png?size=96" alt="IBM Watsonx.ai" title="IBM Watsonx.ai" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
       <img src="https://api.iconify.design/simple-icons:googlegemini.svg?color=%238E75B2" alt="Google Gemini" title="Google Gemini" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
       <img src="https://github.com/openai.png?size=64" alt="OpenAI" title="OpenAI" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
