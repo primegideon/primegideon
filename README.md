@@ -36,10 +36,8 @@
  <br>
 <h3 align="center">Tech Stack & Tools</h3>
 
-<div align="center" style="width:100%;">
-
 <!-- ── AI & MULTI-AGENT ORCHESTRATION ── -->
-<table width="100%" cellpadding="16" cellspacing="0" style="width:100%;min-width:100%;table-layout:fixed;">
+<table align="center" width="100%" cellpadding="16" cellspacing="0" style="width:100%;min-width:100%;table-layout:fixed;">
   <colgroup>
     <col width="50%" />
     <col width="50%" />
@@ -135,7 +133,6 @@
   </tr>
 </table>
 
-</div>
   <br><br>
 
 <div align="center">
