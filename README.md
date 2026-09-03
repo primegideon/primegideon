@@ -39,16 +39,16 @@
 <div align="center">
 
 <!-- ── AI & MULTI-AGENT ORCHESTRATION ── -->
-<table width="100%" cellpadding="16" cellspacing="0" style="width:100%;min-width:900px;table-layout:fixed;">
+<table width="100%" cellpadding="16" cellspacing="0" style="width:100%;min-width:1000px;table-layout:fixed;">
   <colgroup>
-    <col width="38%" />
-    <col width="62%" />
+    <col width="45%" />
+    <col width="55%" />
   </colgroup>
   <tr>
-    <td align="left" width="38%" style="width:38%;min-width:300px;">
+    <td align="left" width="45%" style="width:45%;min-width:360px;">
       <sup><b>⬡ AI &amp; MULTI-AGENT ORCHESTRATION</b></sup>
     </td>
-    <td align="left" width="62%" style="width:62%;min-width:600px;">
+    <td align="left" width="55%" style="width:55%;min-width:640px;">
       <img src="https://github.com/IBM.png?size=96" alt="IBM Watsonx.ai" title="IBM Watsonx.ai" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
       <img src="https://api.iconify.design/simple-icons:googlegemini.svg?color=%238E75B2" alt="Google Gemini" title="Google Gemini" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
       <img src="https://github.com/openai.png?size=64" alt="OpenAI" title="OpenAI" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
