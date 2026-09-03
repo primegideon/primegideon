@@ -60,10 +60,10 @@
 
 <!-- ── AI FRAMEWORKS & SDKS ── -->
   <tr>
-    <td align="left" nowrap>
+    <td align="left" width="50%" nowrap style="width:50%;">
       <sup><b>⬢ AI FRAMEWORKS &amp; SDKS</b></sup>
     </td>
-    <td align="left">
+      <td align="left" width="50%" style="width:50%;">
       <img src="https://api.iconify.design/simple-icons:langchain.svg?color=%2300D8FF" alt="LangChain" title="LangChain" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
       <img src="https://api.iconify.design/simple-icons:langflow.svg?color=%23FF6B6B" alt="Langflow" title="Langflow" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
       <img src="https://api.iconify.design/simple-icons:vercel.svg?color=%23FFFFFF" alt="Vercel AI SDK" title="Vercel AI SDK" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
@@ -72,10 +72,10 @@
 
 <!-- ── CLOUD & INFRASTRUCTURE ── -->
   <tr>
-    <td align="left" nowrap>
+    <td align="left" width="50%" nowrap style="width:50%;">
       <sup><b>☁ CLOUD &amp; INFRASTRUCTURE</b></sup>
     </td>
-    <td align="left">
+      <td align="left" width="50%" style="width:50%;">
       <img src="https://github.com/aws.png?size=96" alt="AWS" title="AWS" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
       <img src="https://api.iconify.design/logos:aws-ec2.svg" alt="AWS EC2" title="AWS EC2" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
       <img src="https://api.iconify.design/logos:aws-s3.svg" alt="AWS S3" title="AWS S3" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
@@ -84,10 +84,10 @@
 
 <!-- ── DATA ARCHITECTURE & VIZ ── -->
   <tr>
-    <td align="left" nowrap>
+    <td align="left" width="50%" nowrap style="width:50%;">
       <sup><b>◈ DATA ARCHITECTURE &amp; VIZ</b></sup>
     </td>
-    <td align="left">
+      <td align="left" width="50%" style="width:50%;">
       <img src="https://api.iconify.design/simple-icons:googlebigquery.svg?color=%23669DF6" alt="Google BigQuery" title="Google BigQuery" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
       <img src="https://api.iconify.design/simple-icons:looker.svg?color=%234285F4" alt="Google Looker Studio" title="Google Looker Studio" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
       <img src="https://api.iconify.design/simple-icons:anaconda.svg?color=%2344A833" alt="Anaconda" title="Anaconda" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
@@ -99,10 +99,10 @@
 
 <!-- ── LANGUAGES & BACKEND ── -->
   <tr>
-    <td align="left" nowrap>
+    <td align="left" width="50%" nowrap style="width:50%;">
       <sup><b>⟨/⟩ LANGUAGES &amp; BACKEND</b></sup>
     </td>
-    <td align="left">
+      <td align="left" width="50%" style="width:50%;">
       <img src="https://api.iconify.design/simple-icons:python.svg?color=%233776AB" alt="Python" title="Python" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
       <img src="https://api.iconify.design/simple-icons:postgresql.svg?color=%234169E1" alt="SQL" title="SQL" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
       <img src="https://api.iconify.design/simple-icons:c.svg?color=%23A8B9CC" alt="C" title="C" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
@@ -112,10 +112,10 @@
 
 <!-- ── MARKUP & STYLING ── -->
   <tr>
-    <td align="left" nowrap>
+    <td align="left" width="50%" nowrap style="width:50%;">
       <sup><b>◇ MARKUP &amp; STYLING</b></sup>
     </td>
-    <td align="left">
+      <td align="left" width="50%" style="width:50%;">
       <img src="https://api.iconify.design/simple-icons:html5.svg?color=%23E34F26" alt="HTML5" title="HTML5" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
       <img src="https://api.iconify.design/simple-icons:css.svg?color=%231572B6" alt="CSS3" title="CSS3" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
       <img src="https://api.iconify.design/simple-icons:markdown.svg?color=%23FFFFFF" alt="Markdown" title="Markdown" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
@@ -125,10 +125,10 @@
 
 <!-- ── VERSION CONTROL ── -->
   <tr>
-    <td align="left" nowrap>
+    <td align="left" width="50%" nowrap style="width:50%;">
       <sup><b>⎇ VERSION CONTROL</b></sup>
     </td>
-    <td align="left">
+      <td align="left" width="50%" style="width:50%;">
       <img src="https://api.iconify.design/simple-icons:git.svg?color=%23F05032" alt="Git" title="Git" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
       <img src="https://api.iconify.design/simple-icons:github.svg?color=%23FFFFFF" alt="GitHub" title="GitHub" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
     </td>
