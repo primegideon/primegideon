@@ -1,11 +1,7 @@
 <div align="center">
   <img src="./assets/banner.svg" alt="Banner: Combining actuarial precision with data-driven innovation" width="100%" />
 </div>
-<!-- 2. The Typewriter Animation -->
-  <img src="./assets/typewriter.svg" alt="Intro Animation" width="850" />
-
-</div>
-
+<p></p>
 <div align="center">
   
   <!-- The Badges -->
