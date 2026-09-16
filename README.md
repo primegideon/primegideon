@@ -43,12 +43,11 @@
       <sup><b>⬡ AI &amp; MULTI-AGENT ORCHESTRATION</b></sup>
     </td>
     <td align="left" width="50%" style="width:50%;">
-      <img src="https://github.com/IBM.png?size=96" alt="IBM Watsonx.ai" title="IBM Watsonx.ai" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
-      <img src="https://api.iconify.design/simple-icons:googlegemini.svg?color=%238E75B2" alt="Google Gemini" title="Google Gemini" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
-      <img src="https://github.com/openai.png?size=64" alt="OpenAI" title="OpenAI" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
-      <img src="https://github.com/groq.png?size=64" alt="Groq" title="Groq" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
-      <img src="https://api.iconify.design/simple-icons:meta.svg?color=%230467DF" alt="Llama 3" title="Llama 3" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
-      <img src="https://api.iconify.design/simple-icons:github.svg?color=%23238636" alt="GitHub Models" title="GitHub Models" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
+      <img src="https://img.shields.io/badge/IBM_Watsonx.ai-0D1117?style=for-the-badge&logo=ibm&logoColor=00FFFF&logoWidth=16&labelColor=0D1117" alt="IBM Watsonx.ai" title="IBM Watsonx.ai" />
+      <img src="https://img.shields.io/badge/IBM_Granite-0D1117?style=for-the-badge&logo=ibm&logoColor=B362FF&logoWidth=16&labelColor=0D1117" alt="IBM Granite" title="IBM Granite" />
+      <img src="https://img.shields.io/badge/Google_Gemini-0D1117?style=for-the-badge&logo=googlegemini&logoColor=79C0FF&labelColor=0D1117" alt="Google Gemini" title="Google Gemini" />
+      <img src="https://img.shields.io/badge/Llama_3-0D1117?style=for-the-badge&logo=meta&logoColor=00FFFF&labelColor=0D1117" alt="Llama 3" title="Llama 3" />
+      <img src="https://img.shields.io/badge/GitHub_Models-0D1117?style=for-the-badge&logo=github&logoColor=B362FF&labelColor=0D1117" alt="GitHub Models" title="GitHub Models" />
     </td>
   </tr>
 
@@ -58,9 +57,9 @@
       <sup><b>⬢ AI FRAMEWORKS &amp; SDKS</b></sup>
     </td>
       <td align="left" width="50%" style="width:50%;">
-      <img src="https://api.iconify.design/simple-icons:langchain.svg?color=%2300D8FF" alt="LangChain" title="LangChain" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
-      <img src="https://api.iconify.design/simple-icons:langflow.svg?color=%23FF6B6B" alt="Langflow" title="Langflow" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
-      <img src="https://api.iconify.design/simple-icons:vercel.svg?color=%23FFFFFF" alt="Vercel AI SDK" title="Vercel AI SDK" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
+      <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=00FFFF&labelColor=0D1117" alt="LangChain" title="LangChain" />
+      <img src="https://img.shields.io/badge/Langflow-0D1117?style=for-the-badge&logo=langflow&logoColor=B362FF&labelColor=0D1117" alt="Langflow" title="Langflow" />
+      <img src="https://img.shields.io/badge/Vercel_AI_SDK-0D1117?style=for-the-badge&logo=vercel&logoColor=79C0FF&labelColor=0D1117" alt="Vercel AI SDK" title="Vercel AI SDK" />
     </td>
   </tr>
 
@@ -70,9 +69,10 @@
       <sup><b>☁ CLOUD &amp; INFRASTRUCTURE</b></sup>
     </td>
       <td align="left" width="50%" style="width:50%;">
-      <img src="https://github.com/aws.png?size=96" alt="AWS" title="AWS" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
-      <img src="https://api.iconify.design/logos:aws-ec2.svg" alt="AWS EC2" title="AWS EC2" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
-      <img src="https://api.iconify.design/logos:aws-s3.svg" alt="AWS S3" title="AWS S3" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
+      <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=00FFFF&logoWidth=16&labelColor=0D1117" alt="AWS" title="AWS" />
+      <img src="https://img.shields.io/badge/AWS_EC2-0D1117?style=for-the-badge&logo=amazonec2&logoColor=B362FF&logoWidth=16&labelColor=0D1117" alt="AWS EC2" title="AWS EC2" />
+      <img src="https://img.shields.io/badge/AWS_S3-0D1117?style=for-the-badge&logo=amazons3&logoColor=79C0FF&logoWidth=16&labelColor=0D1117" alt="AWS S3" title="AWS S3" />
+      <img src="https://img.shields.io/badge/Amazon_QuickSight-0D1117?style=for-the-badge&logo=amazonaws&logoColor=00FFFF&logoWidth=16&labelColor=0D1117" alt="Amazon QuickSight" title="Amazon QuickSight" />
     </td>
   </tr>
 
@@ -82,12 +82,12 @@
       <sup><b>◈ DATA ARCHITECTURE &amp; VIZ</b></sup>
     </td>
       <td align="left" width="50%" style="width:50%;">
-      <img src="https://api.iconify.design/simple-icons:googlebigquery.svg?color=%23669DF6" alt="Google BigQuery" title="Google BigQuery" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
-      <img src="https://api.iconify.design/simple-icons:looker.svg?color=%234285F4" alt="Google Looker Studio" title="Google Looker Studio" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
-      <img src="https://api.iconify.design/simple-icons:anaconda.svg?color=%2344A833" alt="Anaconda" title="Anaconda" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
-      <img src="https://api.iconify.design/simple-icons:numpy.svg?color=%234D77CF" alt="NumPy" title="NumPy" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
-      <img src="https://api.iconify.design/simple-icons:pandas.svg?color=%23150458" alt="Pandas" title="Pandas" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
-      <img src="https://github.com/matplotlib.png?size=64" alt="Matplotlib" title="Matplotlib" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
+      <img src="https://img.shields.io/badge/Google_BigQuery-0D1117?style=for-the-badge&logo=googlebigquery&logoColor=00FFFF&labelColor=0D1117" alt="Google BigQuery" title="Google BigQuery" />
+      <img src="https://img.shields.io/badge/Google_Looker_Studio-0D1117?style=for-the-badge&logo=looker&logoColor=B362FF&labelColor=0D1117" alt="Google Looker Studio" title="Google Looker Studio" />
+      <img src="https://img.shields.io/badge/Anaconda-0D1117?style=for-the-badge&logo=anaconda&logoColor=79C0FF&labelColor=0D1117" alt="Anaconda" title="Anaconda" />
+      <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=00FFFF&labelColor=0D1117" alt="NumPy" title="NumPy" />
+      <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=B362FF&labelColor=0D1117" alt="Pandas" title="Pandas" />
+      <img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=matplotlib&logoColor=79C0FF&labelColor=0D1117" alt="Matplotlib" title="Matplotlib" />
     </td>
   </tr>
 
@@ -97,10 +97,10 @@
       <sup><b>⟨/⟩ LANGUAGES &amp; BACKEND</b></sup>
     </td>
       <td align="left" width="50%" style="width:50%;">
-      <img src="https://api.iconify.design/simple-icons:python.svg?color=%233776AB" alt="Python" title="Python" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
-      <img src="https://api.iconify.design/simple-icons:postgresql.svg?color=%234169E1" alt="SQL" title="SQL" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
-      <img src="https://api.iconify.design/simple-icons:c.svg?color=%23A8B9CC" alt="C" title="C" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
-      <img src="https://api.iconify.design/simple-icons:fastapi.svg?color=%23009688" alt="FastAPI" title="FastAPI" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
+      <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FFFF&labelColor=0D1117" alt="Python" title="Python" />
+      <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=B362FF&labelColor=0D1117" alt="SQL" title="SQL" />
+      <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=79C0FF&labelColor=0D1117" alt="C" title="C" />
+      <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00FFFF&labelColor=0D1117" alt="FastAPI" title="FastAPI" />
     </td>
   </tr>
 
@@ -110,10 +110,10 @@
       <sup><b>◇ MARKUP &amp; STYLING</b></sup>
     </td>
       <td align="left" width="50%" style="width:50%;">
-      <img src="https://api.iconify.design/simple-icons:html5.svg?color=%23E34F26" alt="HTML5" title="HTML5" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
-      <img src="https://api.iconify.design/simple-icons:css.svg?color=%231572B6" alt="CSS3" title="CSS3" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
-      <img src="https://api.iconify.design/simple-icons:markdown.svg?color=%23FFFFFF" alt="Markdown" title="Markdown" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
-      <img src="https://api.iconify.design/simple-icons:svg.svg?color=%23FFB13B" alt="SVG" title="SVG" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
+      <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FFFF&labelColor=0D1117" alt="HTML5" title="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=B362FF&labelColor=0D1117" alt="CSS3" title="CSS3" />
+      <img src="https://img.shields.io/badge/Markdown-0D1117?style=for-the-badge&logo=markdown&logoColor=79C0FF&labelColor=0D1117" alt="Markdown" title="Markdown" />
+      <img src="https://img.shields.io/badge/SVG-0D1117?style=for-the-badge&logo=svg&logoColor=00FFFF&labelColor=0D1117" alt="SVG" title="SVG" />
     </td>
   </tr>
 
@@ -123,8 +123,8 @@
       <sup><b>⎇ VERSION CONTROL</b></sup>
     </td>
       <td align="left" width="50%" style="width:50%;">
-      <img src="https://api.iconify.design/simple-icons:git.svg?color=%23F05032" alt="Git" title="Git" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
-      <img src="https://api.iconify.design/simple-icons:github.svg?color=%23FFFFFF" alt="GitHub" title="GitHub" width="40" height="40" style="background:#252A3A;border-radius:10px;padding:8px;margin:3px;" />
+      <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=B362FF&labelColor=0D1117" alt="Git" title="Git" />
+      <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=79C0FF&labelColor=0D1117" alt="GitHub" title="GitHub" />
     </td>
   </tr>
 </table>
