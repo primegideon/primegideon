@@ -43,52 +43,48 @@
       <sup><b>⟨/⟩ LANGUAGES &amp; SCRIPTING</b></sup>
     </td>
     <td align="left" width="50%" style="width:50%;">
-      <img src="https://skillicons.dev/icons?i=python,postgres,java,scala,bash&theme=dark" alt="Languages" />
+      <img src="https://skillicons.dev/icons?i=python,postgres,bash&theme=dark" alt="Languages" />
     </td>
   </tr>
 
   <tr>
     <td align="left" width="50%" nowrap style="width:50%;">
-      <sup><b>⚙️ DATA PROCESSING &amp; STREAMING</b></sup>
+      <sup><b>⚙️ DATA PROCESSING &amp; BIG DATA</b></sup>
     </td>
       <td align="left" width="50%" style="width:50%;">
-      <img src="https://skillicons.dev/icons?i=kafka,rabbitmq&theme=dark" alt="Processing" />
+      <img src="https://img.shields.io/badge/Apache_Spark-0D1117?style=for-the-badge&logo=apachespark&logoColor=F4A236&labelColor=0D1117" alt="Spark" />
+      <img src="https://img.shields.io/badge/Databricks-0D1117?style=for-the-badge&logo=databricks&logoColor=E34F4F&labelColor=0D1117" alt="Databricks" />
+      <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=7FB5E0&labelColor=0D1117" alt="Pandas" />
     </td>
   </tr>
 
   <tr>
     <td align="left" width="50%" nowrap style="width:50%;">
-      <sup><b>⛁ DATABASES &amp; STORAGE</b></sup>
+      <sup><b>⏱️ ORCHESTRATION &amp; PIPELINES</b></sup>
     </td>
       <td align="left" width="50%" style="width:50%;">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlite&theme=dark" alt="Databases" />
+      <img src="https://img.shields.io/badge/Apache_Airflow-0D1117?style=for-the-badge&logo=apacheairflow&logoColor=7FB5E0&labelColor=0D1117" alt="Airflow" />
+      <img src="https://img.shields.io/badge/dbt-0D1117?style=for-the-badge&logo=dbt&logoColor=E34F4F&labelColor=0D1117" alt="dbt" />
     </td>
   </tr>
 
   <tr>
     <td align="left" width="50%" nowrap style="width:50%;">
-      <sup><b>⏱️ ORCHESTRATION &amp; CONTAINERS</b></sup>
+      <sup><b>⛁ WAREHOUSING &amp; STORAGE</b></sup>
     </td>
       <td align="left" width="50%" style="width:50%;">
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,ubuntu&theme=dark" alt="Orchestration" />
+      <img src="https://img.shields.io/badge/Snowflake-0D1117?style=for-the-badge&logo=snowflake&logoColor=7FB5E0&labelColor=0D1117" alt="Snowflake" />
+      <img src="https://img.shields.io/badge/BigQuery-0D1117?style=for-the-badge&logo=googlebigquery&logoColor=F4A236&labelColor=0D1117" alt="BigQuery" />
+      <img src="https://img.shields.io/badge/Amazon_Redshift-0D1117?style=for-the-badge&logo=amazonredshift&logoColor=E34F4F&labelColor=0D1117" alt="Redshift" />
     </td>
   </tr>
 
   <tr>
     <td align="left" width="50%" nowrap style="width:50%;">
-      <sup><b>☁ CLOUD INFRASTRUCTURE</b></sup>
+      <sup><b>☁ CLOUD &amp; DEVOPS</b></sup>
     </td>
       <td align="left" width="50%" style="width:50%;">
-      <img src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=dark" alt="Cloud" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="left" width="50%" nowrap style="width:50%;">
-      <sup><b>⎇ VERSION CONTROL &amp; COLLABORATION</b></sup>
-    </td>
-      <td align="left" width="50%" style="width:50%;">
-      <img src="https://skillicons.dev/icons?i=git,github,md&theme=dark" alt="Version Control" />
+      <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github&theme=dark" alt="Cloud & DevOps" />
     </td>
   </tr>
 </table>
