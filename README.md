@@ -43,7 +43,9 @@
       <sup><b>⟨/⟩ LANGUAGES &amp; SCRIPTING</b></sup>
     </td>
     <td align="left" width="50%" style="width:50%;">
-      <img src="https://skillicons.dev/icons?i=python,postgres,bash&theme=dark" alt="Languages" />
+      <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=E34F4F&labelColor=0D1117" alt="Python" />
+      <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=F4A236&labelColor=0D1117" alt="SQL" />
+      <img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=7FB5E0&labelColor=0D1117" alt="Bash" />
     </td>
   </tr>
 
@@ -84,7 +86,11 @@
       <sup><b>☁ CLOUD &amp; DEVOPS</b></sup>
     </td>
       <td align="left" width="50%" style="width:50%;">
-      <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github&theme=dark" alt="Cloud & DevOps" />
+      <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=E34F4F&labelColor=0D1117" alt="AWS" />
+      <img src="https://img.shields.io/badge/GCP-0D1117?style=for-the-badge&logo=googlecloud&logoColor=F4A236&labelColor=0D1117" alt="GCP" />
+      <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=7FB5E0&labelColor=0D1117" alt="Docker" />
+      <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E34F4F&labelColor=0D1117" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F4A236&labelColor=0D1117" alt="GitHub" />
     </td>
   </tr>
 </table>
