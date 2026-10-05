@@ -40,84 +40,55 @@
   </colgroup>
   <tr>
     <td align="left" width="50%" nowrap style="width:50%;">
-      <sup><b>⟨/⟩ DATA LANGUAGES &amp; CORE TOOLS</b></sup>
+      <sup><b>⟨/⟩ LANGUAGES &amp; SCRIPTING</b></sup>
     </td>
     <td align="left" width="50%" style="width:50%;">
-      <img src="https://cdn.simpleicons.org/python/E34F4F" alt="Python" title="Python" height="32" width="32" /> &nbsp;
-      <img src="https://cdn.simpleicons.org/postgresql/F4A236" alt="SQL" title="SQL" height="32" width="32" /> &nbsp;
-      <img src="https://cdn.simpleicons.org/r/7FB5E0" alt="R" title="R" height="32" width="32" /> &nbsp;
-      <img src="https://cdn.simpleicons.org/jupyter/E34F4F" alt="Jupyter" title="Jupyter" height="32" width="32" /> &nbsp;
+      <img src="https://skillicons.dev/icons?i=python,postgres,java,scala,bash&theme=dark" alt="Languages" />
     </td>
   </tr>
 
-<!-- ── DATA PROCESSING & ANALYSIS ── -->
   <tr>
     <td align="left" width="50%" nowrap style="width:50%;">
-      <sup><b>◈ DATA PROCESSING &amp; ANALYSIS</b></sup>
+      <sup><b>⚙️ DATA PROCESSING &amp; STREAMING</b></sup>
     </td>
       <td align="left" width="50%" style="width:50%;">
-      <img src="https://cdn.simpleicons.org/pandas/F4A236" alt="Pandas" title="Pandas" height="32" width="32" /> &nbsp;
-      <img src="https://cdn.simpleicons.org/numpy/7FB5E0" alt="NumPy" title="NumPy" height="32" width="32" /> &nbsp;
-      <img src="https://img.shields.io/badge/-%20-0D1117?style=flat-square&logo=microsoftexcel&logoColor=E34F4F" alt="Excel" title="Excel" height="32" width="32" /> &nbsp;
+      <img src="https://skillicons.dev/icons?i=kafka,rabbitmq&theme=dark" alt="Processing" />
     </td>
   </tr>
 
-<!-- ── DATA VISUALIZATION & BI ── -->
   <tr>
     <td align="left" width="50%" nowrap style="width:50%;">
-      <sup><b>◧ DATA VISUALIZATION &amp; BI</b></sup>
+      <sup><b>⛁ DATABASES &amp; STORAGE</b></sup>
     </td>
       <td align="left" width="50%" style="width:50%;">
-      <img src="https://cdn.simpleicons.org/looker/7FB5E0" alt="Looker Studio" title="Looker Studio" height="32" width="32" /> &nbsp;
-      <img src="https://img.shields.io/badge/-%20-0D1117?style=flat-square&logo=matplotlib&logoColor=E34F4F" alt="Matplotlib" title="Matplotlib" height="32" width="32" /> &nbsp;
-      <img src="https://cdn.simpleicons.org/markdown/F4A236" alt="Evidence.dev" title="Evidence.dev" height="32" width="32" /> &nbsp;
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlite&theme=dark" alt="Databases" />
     </td>
   </tr>
 
-<!-- ── DATA WAREHOUSING & ARCHITECTURE ── -->
   <tr>
     <td align="left" width="50%" nowrap style="width:50%;">
-      <sup><b>⛁ DATA WAREHOUSING &amp; ARCHITECTURE</b></sup>
+      <sup><b>⏱️ ORCHESTRATION &amp; CONTAINERS</b></sup>
     </td>
       <td align="left" width="50%" style="width:50%;">
-      <img src="https://cdn.simpleicons.org/googlebigquery/F4A236" alt="Google BigQuery" title="Google BigQuery" height="32" width="32" /> &nbsp;
-      <img src="https://cdn.simpleicons.org/duckdb/7FB5E0" alt="DuckDB" title="DuckDB" height="32" width="32" /> &nbsp;
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,ubuntu&theme=dark" alt="Orchestration" />
     </td>
   </tr>
 
-<!-- ── CLOUD & INFRASTRUCTURE ── -->
   <tr>
     <td align="left" width="50%" nowrap style="width:50%;">
-      <sup><b>☁ CLOUD &amp; INFRASTRUCTURE</b></sup>
+      <sup><b>☁ CLOUD INFRASTRUCTURE</b></sup>
     </td>
       <td align="left" width="50%" style="width:50%;">
-      <img src="https://img.shields.io/badge/-%20-0D1117?style=flat-square&logo=amazonaws&logoColor=E34F4F" alt="AWS" title="AWS" height="32" width="32" /> &nbsp;
-      <img src="https://img.shields.io/badge/-%20-0D1117?style=flat-square&logo=amazonec2&logoColor=F4A236" alt="AWS EC2" title="AWS EC2" height="32" width="32" /> &nbsp;
-      <img src="https://img.shields.io/badge/-%20-0D1117?style=flat-square&logo=amazons3&logoColor=7FB5E0" alt="AWS S3" title="AWS S3" height="32" width="32" /> &nbsp;
+      <img src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=dark" alt="Cloud" />
     </td>
   </tr>
 
-<!-- ── MACHINE LEARNING & AI ── -->
-  <tr>
-    <td align="left" width="50%" nowrap style="width:50%;">
-      <sup><b>⬡ MACHINE LEARNING &amp; AI</b></sup>
-    </td>
-      <td align="left" width="50%" style="width:50%;">
-      <img src="https://cdn.simpleicons.org/scikitlearn/F4A236" alt="Scikit-Learn" title="Scikit-Learn" height="32" width="32" /> &nbsp;
-      <img src="https://img.shields.io/badge/-%20-0D1117?style=flat-square&logo=ibm&logoColor=E34F4F" alt="IBM Watsonx.ai" title="IBM Watsonx.ai" height="32" width="32" /> &nbsp;
-      <img src="https://cdn.simpleicons.org/googlegemini/7FB5E0" alt="Google Gemini" title="Google Gemini" height="32" width="32" /> &nbsp;
-    </td>
-  </tr>
-
-<!-- ── VERSION CONTROL & COLLABORATION ── -->
   <tr>
     <td align="left" width="50%" nowrap style="width:50%;">
       <sup><b>⎇ VERSION CONTROL &amp; COLLABORATION</b></sup>
     </td>
       <td align="left" width="50%" style="width:50%;">
-      <img src="https://cdn.simpleicons.org/git/F4A236" alt="Git" title="Git" height="32" width="32" /> &nbsp;
-      <img src="https://cdn.simpleicons.org/github/7FB5E0" alt="GitHub" title="GitHub" height="32" width="32" /> &nbsp;
-      <img src="https://cdn.simpleicons.org/markdown/E34F4F" alt="Markdown" title="Markdown" height="32" width="32" /> &nbsp;
+      <img src="https://skillicons.dev/icons?i=git,github,md&theme=dark" alt="Version Control" />
     </td>
   </tr>
 </table>
