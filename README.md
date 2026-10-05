@@ -66,7 +66,7 @@
     </td>
       <td align="left" width="50%" style="width:50%;">
       <img src="https://img.shields.io/badge/Apache_Airflow-0D1117?style=for-the-badge&logo=apacheairflow&logoColor=7FB5E0&labelColor=0D1117" alt="Airflow" />
-      <img src="https://img.shields.io/badge/dbt-0D1117?style=for-the-badge&logo=dbt&logoColor=E34F4F&labelColor=0D1117" alt="dbt" />
+      <img src="assets/dbt-badge.svg" alt="dbt" />
     </td>
   </tr>
 
