@@ -23,8 +23,8 @@
 
 | &nbsp; | &nbsp; |
 | :--- | :--- |
-| 📚 **Google Data Analytics Certificate** <br> *Google Career Certificate* <br><br> End-to-end data processing, from rigorous cleaning and transformation to advanced visualization and reporting. <br><br> <sub>`Data Cleaning` · `SQL` · `Tableau` · `R`</sub> | 📌 **IBM Data Analytics Certificate** <br> *IBM Certificate Program* <br><br> Applied statistical analysis, data-driven decision making, and building advanced analytical workflows. <br><br> <sub>`Python` · `Excel` · `Data Visualization` · `Cognos`</sub> |
-| 💻 **Fullstack Development (Python)** <br> *STARTOCODE - One Million Coders Programme* <br><br> Architecting robust, scalable backend systems and integrating full-stack web applications. <br><br> <sub>`Python` · `FastAPI` · `Backend Architecture` · `Git`</sub> | ☁️ **Future AWS Agentic AI Business Professional** <br> *AWS AI & ML Scholars Program* <br><br> Mastering core AWS cloud infrastructure foundations, focusing strictly on scalable networking, compute, and storage architecture. <br><br> <sub>`Cloud Infrastructure` · `AWS EC2` · `AWS S3` · `IAM`</sub> |
+| 📚 **Google Data Analytics Certificate** <br> *Google Career Certificate* <br><br> End-to-end data processing, from rigorous cleaning and transformation to advanced visualization and reporting. <br><br> <sub>`Spreadsheets` · `SQL` · `Tableau` · `R`</sub> | 📌 **IBM Data Analytics Certificate** <br> *IBM Certificate Program* <br><br> Applied statistical analysis, data-driven decision making, and building advanced analytical workflows. <br><br> <sub>`Python` · `Pandas` · `Excel` · `SQL`</sub> |
+| 💻 **Fullstack Development (Python)** <br> *STARTOCODE - One Million Coders Programme* <br><br> Architecting robust, scalable backend systems and integrating full-stack web applications. <br><br> <sub>`Python` · `JavaScript` · `MySQL` · `Flask`</sub> | ☁️ **Future AWS Agentic AI Business Professional** <br> *AWS AI & ML Scholars Program* <br><br> Leveraging AI for operational efficiency, focusing on AI-driven decision-making, workflow automation, and building BI solutions with AI agents. <br><br> <sub>`AI Agents` · `Amazon QuickSight` · `Workflow Automation` · `AI Strategy`</sub> |
 
  <!-- The Glowing Divider -->
   <img src="assets/flux-divider.svg" alt="Divider" width="850" />
@@ -32,7 +32,7 @@
  <br>
 <h3 align="center">Tech Stack & Tools</h3>
 
-<!-- ── AI & MULTI-AGENT ORCHESTRATION ── -->
+<!-- ── DATA LANGUAGES & CORE TOOLS ── -->
 <table align="center" width="100%" cellpadding="16" cellspacing="0" style="width:100%;min-width:100%;table-layout:fixed;">
   <colgroup>
     <col width="50%" />
@@ -40,26 +40,48 @@
   </colgroup>
   <tr>
     <td align="left" width="50%" nowrap style="width:50%;">
-      <sup><b>⬡ AI &amp; MULTI-AGENT ORCHESTRATION</b></sup>
+      <sup><b>⟨/⟩ DATA LANGUAGES &amp; CORE TOOLS</b></sup>
     </td>
     <td align="left" width="50%" style="width:50%;">
-      <img src="https://img.shields.io/badge/IBM_Watsonx.ai-0D1117?style=for-the-badge&logo=ibm&logoColor=00FFFF&logoWidth=16&labelColor=0D1117" alt="IBM Watsonx.ai" title="IBM Watsonx.ai" />
-      <img src="https://img.shields.io/badge/IBM_Granite-0D1117?style=for-the-badge&logo=ibm&logoColor=B362FF&logoWidth=16&labelColor=0D1117" alt="IBM Granite" title="IBM Granite" />
-      <img src="https://img.shields.io/badge/Google_Gemini-0D1117?style=for-the-badge&logo=googlegemini&logoColor=79C0FF&labelColor=0D1117" alt="Google Gemini" title="Google Gemini" />
-      <img src="https://img.shields.io/badge/Llama_3-0D1117?style=for-the-badge&logo=meta&logoColor=00FFFF&labelColor=0D1117" alt="Llama 3" title="Llama 3" />
-      <img src="https://img.shields.io/badge/GitHub_Models-0D1117?style=for-the-badge&logo=github&logoColor=B362FF&labelColor=0D1117" alt="GitHub Models" title="GitHub Models" />
+      <img src="https://cdn.simpleicons.org/python/E34F4F" alt="Python" title="Python" height="32" width="32" /> &nbsp;
+      <img src="https://cdn.simpleicons.org/postgresql/F4A236" alt="SQL" title="SQL" height="32" width="32" /> &nbsp;
+      <img src="https://cdn.simpleicons.org/r/7FB5E0" alt="R" title="R" height="32" width="32" /> &nbsp;
+      <img src="https://cdn.simpleicons.org/jupyter/E34F4F" alt="Jupyter" title="Jupyter" height="32" width="32" /> &nbsp;
     </td>
   </tr>
 
-<!-- ── AI FRAMEWORKS & SDKS ── -->
+<!-- ── DATA PROCESSING & ANALYSIS ── -->
   <tr>
     <td align="left" width="50%" nowrap style="width:50%;">
-      <sup><b>⬢ AI FRAMEWORKS &amp; SDKS</b></sup>
+      <sup><b>◈ DATA PROCESSING &amp; ANALYSIS</b></sup>
     </td>
       <td align="left" width="50%" style="width:50%;">
-      <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=00FFFF&labelColor=0D1117" alt="LangChain" title="LangChain" />
-      <img src="https://img.shields.io/badge/Langflow-0D1117?style=for-the-badge&logo=langflow&logoColor=B362FF&labelColor=0D1117" alt="Langflow" title="Langflow" />
-      <img src="https://img.shields.io/badge/Vercel_AI_SDK-0D1117?style=for-the-badge&logo=vercel&logoColor=79C0FF&labelColor=0D1117" alt="Vercel AI SDK" title="Vercel AI SDK" />
+      <img src="https://cdn.simpleicons.org/pandas/F4A236" alt="Pandas" title="Pandas" height="32" width="32" /> &nbsp;
+      <img src="https://cdn.simpleicons.org/numpy/7FB5E0" alt="NumPy" title="NumPy" height="32" width="32" /> &nbsp;
+      <img src="https://img.shields.io/badge/-%20-0D1117?style=flat-square&logo=microsoftexcel&logoColor=E34F4F" alt="Excel" title="Excel" height="32" width="32" /> &nbsp;
+    </td>
+  </tr>
+
+<!-- ── DATA VISUALIZATION & BI ── -->
+  <tr>
+    <td align="left" width="50%" nowrap style="width:50%;">
+      <sup><b>◧ DATA VISUALIZATION &amp; BI</b></sup>
+    </td>
+      <td align="left" width="50%" style="width:50%;">
+      <img src="https://cdn.simpleicons.org/looker/7FB5E0" alt="Looker Studio" title="Looker Studio" height="32" width="32" /> &nbsp;
+      <img src="https://img.shields.io/badge/-%20-0D1117?style=flat-square&logo=matplotlib&logoColor=E34F4F" alt="Matplotlib" title="Matplotlib" height="32" width="32" /> &nbsp;
+      <img src="https://cdn.simpleicons.org/markdown/F4A236" alt="Evidence.dev" title="Evidence.dev" height="32" width="32" /> &nbsp;
+    </td>
+  </tr>
+
+<!-- ── DATA WAREHOUSING & ARCHITECTURE ── -->
+  <tr>
+    <td align="left" width="50%" nowrap style="width:50%;">
+      <sup><b>⛁ DATA WAREHOUSING &amp; ARCHITECTURE</b></sup>
+    </td>
+      <td align="left" width="50%" style="width:50%;">
+      <img src="https://cdn.simpleicons.org/googlebigquery/F4A236" alt="Google BigQuery" title="Google BigQuery" height="32" width="32" /> &nbsp;
+      <img src="https://cdn.simpleicons.org/duckdb/7FB5E0" alt="DuckDB" title="DuckDB" height="32" width="32" /> &nbsp;
     </td>
   </tr>
 
@@ -69,62 +91,33 @@
       <sup><b>☁ CLOUD &amp; INFRASTRUCTURE</b></sup>
     </td>
       <td align="left" width="50%" style="width:50%;">
-      <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=00FFFF&logoWidth=16&labelColor=0D1117" alt="AWS" title="AWS" />
-      <img src="https://img.shields.io/badge/AWS_EC2-0D1117?style=for-the-badge&logo=amazonec2&logoColor=B362FF&logoWidth=16&labelColor=0D1117" alt="AWS EC2" title="AWS EC2" />
-      <img src="https://img.shields.io/badge/AWS_S3-0D1117?style=for-the-badge&logo=amazons3&logoColor=79C0FF&logoWidth=16&labelColor=0D1117" alt="AWS S3" title="AWS S3" />
-      <img src="https://img.shields.io/badge/Amazon_QuickSight-0D1117?style=for-the-badge&logo=amazonaws&logoColor=00FFFF&logoWidth=16&labelColor=0D1117" alt="Amazon QuickSight" title="Amazon QuickSight" />
+      <img src="https://img.shields.io/badge/-%20-0D1117?style=flat-square&logo=amazonaws&logoColor=E34F4F" alt="AWS" title="AWS" height="32" width="32" /> &nbsp;
+      <img src="https://img.shields.io/badge/-%20-0D1117?style=flat-square&logo=amazonec2&logoColor=F4A236" alt="AWS EC2" title="AWS EC2" height="32" width="32" /> &nbsp;
+      <img src="https://img.shields.io/badge/-%20-0D1117?style=flat-square&logo=amazons3&logoColor=7FB5E0" alt="AWS S3" title="AWS S3" height="32" width="32" /> &nbsp;
     </td>
   </tr>
 
-<!-- ── DATA ARCHITECTURE & VIZ ── -->
+<!-- ── MACHINE LEARNING & AI ── -->
   <tr>
     <td align="left" width="50%" nowrap style="width:50%;">
-      <sup><b>◈ DATA ARCHITECTURE &amp; VIZ</b></sup>
+      <sup><b>⬡ MACHINE LEARNING &amp; AI</b></sup>
     </td>
       <td align="left" width="50%" style="width:50%;">
-      <img src="https://img.shields.io/badge/Google_BigQuery-0D1117?style=for-the-badge&logo=googlebigquery&logoColor=00FFFF&labelColor=0D1117" alt="Google BigQuery" title="Google BigQuery" />
-      <img src="https://img.shields.io/badge/Google_Looker_Studio-0D1117?style=for-the-badge&logo=looker&logoColor=B362FF&labelColor=0D1117" alt="Google Looker Studio" title="Google Looker Studio" />
-      <img src="https://img.shields.io/badge/Anaconda-0D1117?style=for-the-badge&logo=anaconda&logoColor=79C0FF&labelColor=0D1117" alt="Anaconda" title="Anaconda" />
-      <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=00FFFF&labelColor=0D1117" alt="NumPy" title="NumPy" />
-      <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=B362FF&labelColor=0D1117" alt="Pandas" title="Pandas" />
-      <img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=matplotlib&logoColor=79C0FF&labelColor=0D1117" alt="Matplotlib" title="Matplotlib" />
+      <img src="https://cdn.simpleicons.org/scikitlearn/F4A236" alt="Scikit-Learn" title="Scikit-Learn" height="32" width="32" /> &nbsp;
+      <img src="https://img.shields.io/badge/-%20-0D1117?style=flat-square&logo=ibm&logoColor=E34F4F" alt="IBM Watsonx.ai" title="IBM Watsonx.ai" height="32" width="32" /> &nbsp;
+      <img src="https://cdn.simpleicons.org/googlegemini/7FB5E0" alt="Google Gemini" title="Google Gemini" height="32" width="32" /> &nbsp;
     </td>
   </tr>
 
-<!-- ── LANGUAGES & BACKEND ── -->
+<!-- ── VERSION CONTROL & COLLABORATION ── -->
   <tr>
     <td align="left" width="50%" nowrap style="width:50%;">
-      <sup><b>⟨/⟩ LANGUAGES &amp; BACKEND</b></sup>
+      <sup><b>⎇ VERSION CONTROL &amp; COLLABORATION</b></sup>
     </td>
       <td align="left" width="50%" style="width:50%;">
-      <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FFFF&labelColor=0D1117" alt="Python" title="Python" />
-      <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=B362FF&labelColor=0D1117" alt="SQL" title="SQL" />
-      <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=79C0FF&labelColor=0D1117" alt="C" title="C" />
-      <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00FFFF&labelColor=0D1117" alt="FastAPI" title="FastAPI" />
-    </td>
-  </tr>
-
-<!-- ── MARKUP & STYLING ── -->
-  <tr>
-    <td align="left" width="50%" nowrap style="width:50%;">
-      <sup><b>◇ MARKUP &amp; STYLING</b></sup>
-    </td>
-      <td align="left" width="50%" style="width:50%;">
-      <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FFFF&labelColor=0D1117" alt="HTML5" title="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=B362FF&labelColor=0D1117" alt="CSS3" title="CSS3" />
-      <img src="https://img.shields.io/badge/Markdown-0D1117?style=for-the-badge&logo=markdown&logoColor=79C0FF&labelColor=0D1117" alt="Markdown" title="Markdown" />
-      <img src="https://img.shields.io/badge/SVG-0D1117?style=for-the-badge&logo=svg&logoColor=00FFFF&labelColor=0D1117" alt="SVG" title="SVG" />
-    </td>
-  </tr>
-
-<!-- ── VERSION CONTROL ── -->
-  <tr>
-    <td align="left" width="50%" nowrap style="width:50%;">
-      <sup><b>⎇ VERSION CONTROL</b></sup>
-    </td>
-      <td align="left" width="50%" style="width:50%;">
-      <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=B362FF&labelColor=0D1117" alt="Git" title="Git" />
-      <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=79C0FF&labelColor=0D1117" alt="GitHub" title="GitHub" />
+      <img src="https://cdn.simpleicons.org/git/F4A236" alt="Git" title="Git" height="32" width="32" /> &nbsp;
+      <img src="https://cdn.simpleicons.org/github/7FB5E0" alt="GitHub" title="GitHub" height="32" width="32" /> &nbsp;
+      <img src="https://cdn.simpleicons.org/markdown/E34F4F" alt="Markdown" title="Markdown" height="32" width="32" /> &nbsp;
     </td>
   </tr>
 </table>
@@ -143,7 +136,7 @@
 
   <!-- Live GitHub Streak Card -->
   <a href="https://github.com/primegideon">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=primegideon&theme=dark&hide_border=true&background=0D1117&ring=B362FF&fire=00FFFF&currStreakNum=B362FF&currStreakLabel=00FFFF&sideNums=79C0FF&sideLabels=58A6FF&dates=3FB950" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=primegideon&theme=dark&hide_border=true&background=0D1117&ring=F4A236&fire=E34F4F&currStreakNum=F4A236&currStreakLabel=E34F4F&sideNums=7FB5E0&sideLabels=7FB5E0&dates=F4A236" alt="GitHub Streak" />
   </a>
 
   <br><br>
@@ -161,7 +154,7 @@
 
   <!-- Live Contribution Graph -->
   <a href="https://github.com/primegideon">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=primegideon&bg_color=0D1117&color=00FFFF&line=B362FF&point=00FFFF&title_color=00FFFF&axes_color=79C0FF&hide_border=true&area=true" alt="Gideon's Contribution Graph" width="850" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=primegideon&bg_color=0D1117&color=E34F4F&line=F4A236&point=E34F4F&title_color=E34F4F&axes_color=7FB5E0&hide_border=true&area=true" alt="Gideon's Contribution Graph" width="850" />
 </a>
 </div>
 
@@ -231,7 +224,7 @@
 <div align="center">
   <!-- Dynamic Cyberpunk Quote Generator -->
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=0D1117&quoteColor=00FFFF&authorColor=58A6FF&symbolColor=B362FF" alt="Random Programming Quote" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=0D1117&quoteColor=E34F4F&authorColor=7FB5E0&symbolColor=F4A236" alt="Random Programming Quote" />
   </a>
 </div>
 
@@ -242,14 +235,7 @@
 <br><br>
 
 <p align="center">
-  <sub>
-    <b>Credit:</b> Inspired by <a href="https://github.com/StephenSook">@stephensookra</a><br>
-    Built by <a href="https://github.com/primegideon">@primegideon</a> · Accra · <i>working at the intersection of numbers and tech</i>
-  </sub>
-</p>
-
-<p align="center">
-  <sub><sub>Last edited: August 2026</sub></sub>
+  <sub><sub>Last edited: October 2026</sub></sub>
 </p>
 
 <br>

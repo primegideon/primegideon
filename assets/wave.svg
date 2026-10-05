@@ -2,14 +2,14 @@
   <defs>
     <!-- Background Wave Gradient -->
     <linearGradient id="bg-wave" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#006699" stop-opacity="0.7" />
-      <stop offset="100%" stop-color="#663399" stop-opacity="0.7" />
+      <stop offset="0%" stop-color="#7FB5E0" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#E34F4F" stop-opacity="0.7" />
     </linearGradient>
     
     <!-- Foreground Wave Gradient -->
     <linearGradient id="fg-wave" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00FFFF" stop-opacity="0.9" />
-      <stop offset="100%" stop-color="#B362FF" stop-opacity="0.9" />
+      <stop offset="0%" stop-color="#E34F4F" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#F4A236" stop-opacity="0.9" />
     </linearGradient>
   </defs>
 
