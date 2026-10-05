@@ -77,7 +77,6 @@
       <td align="left" width="50%" style="width:50%;">
       <img src="https://img.shields.io/badge/Snowflake-0D1117?style=for-the-badge&logo=snowflake&logoColor=7FB5E0&labelColor=0D1117" alt="Snowflake" />
       <img src="https://img.shields.io/badge/BigQuery-0D1117?style=for-the-badge&logo=googlebigquery&logoColor=F4A236&labelColor=0D1117" alt="BigQuery" />
-      <img src="https://img.shields.io/badge/Amazon_Redshift-0D1117?style=for-the-badge&logo=amazonredshift&logoColor=E34F4F&labelColor=0D1117" alt="Redshift" />
     </td>
   </tr>
 
@@ -87,7 +86,6 @@
     </td>
       <td align="left" width="50%" style="width:50%;">
       <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=E34F4F&labelColor=0D1117" alt="AWS" />
-      <img src="https://img.shields.io/badge/GCP-0D1117?style=for-the-badge&logo=googlecloud&logoColor=F4A236&labelColor=0D1117" alt="GCP" />
       <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=7FB5E0&labelColor=0D1117" alt="Docker" />
       <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E34F4F&labelColor=0D1117" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F4A236&labelColor=0D1117" alt="GitHub" />
