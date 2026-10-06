@@ -119,23 +119,6 @@
 <br>
 
 <div align="center">
-  <h3>DevPulse Activity</h3>
-  
-  <br>
-
-  <!-- 3D Isometric Contribution Calendar -->
-  <a href="https://github.com/primegideon">
-    <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="Gideon's 3D Contribution Graph" width="850" />
-  </a>
-</div>
-
-<br><br>
-  <!-- Bottom Flux Divider -->
-  <img src="assets/flux-divider.svg" alt="Divider" width="850" />
-
-  <br>
-
-<div align="center">
   <h3>Watch My Commits Vanish Into Oblivion</h3>
   
   <br>
@@ -195,7 +178,7 @@
 <div align="center">
   <!-- Dynamic Cyberpunk Quote Generator -->
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=0D1117&quoteColor=E34F4F&authorColor=7FB5E0&symbolColor=F4A236" alt="Random Programming Quote" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=0D1117&quoteColor=FDF6E3&authorColor=7FB5E0&symbolColor=E34F4F" alt="Random Programming Quote" />
   </a>
 </div>
 
