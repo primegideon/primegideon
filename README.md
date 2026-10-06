@@ -85,7 +85,7 @@
       <sup><b>☁ CLOUD &amp; DEVOPS</b></sup>
     </td>
       <td align="left" width="50%" style="width:50%;">
-      <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=E34F4F&labelColor=0D1117" alt="AWS" />
+      <img src="assets/aws-badge.svg" alt="AWS" />
       <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=7FB5E0&labelColor=0D1117" alt="Docker" />
       <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E34F4F&labelColor=0D1117" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F4A236&labelColor=0D1117" alt="GitHub" />
@@ -125,9 +125,9 @@
 
   <!-- Animated Contribution Snake -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/primegideon/primegideon/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/primegideon/primegideon/output/github-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/primegideon/primegideon/output/github-snake-dark.svg" width="850">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/primegideon/primegideon/output/github-snake-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/primegideon/primegideon/output/github-snake.svg?v=2">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/primegideon/primegideon/output/github-snake-dark.svg?v=2" width="850">
   </picture>
 </div>
 
