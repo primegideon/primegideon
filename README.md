@@ -125,9 +125,9 @@
 
   <!-- Animated Contribution Snake -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/primegideon/primegideon/output/github-snake-dark.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/primegideon/primegideon/output/github-snake.svg?v=2">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/primegideon/primegideon/output/github-snake-dark.svg?v=2" width="850">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/primegideon/primegideon/output/github-snake-dark.svg?v=3">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/primegideon/primegideon/output/github-snake.svg?v=3">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/primegideon/primegideon/output/github-snake-dark.svg?v=3" width="850">
   </picture>
 </div>
 
