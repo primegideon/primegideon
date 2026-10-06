@@ -26,7 +26,7 @@ jobs:
           # Generate the SVG with a custom cyberpunk color palette
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#00FFFF&color_dots=#0D1117,#1c1938,#452b75,#7C3AED,#B362FF
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
