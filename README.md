@@ -44,14 +44,17 @@
     </td>
     <td align="left" width="50%" style="width:50%;">
       <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=E34F4F&labelColor=0D1117" alt="Python" />
-      <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=F4A236&labelColor=0D1117" alt="SQL" />
+      <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F4A236&labelColor=0D1117" alt="JavaScript" />
       <img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=7FB5E0&labelColor=0D1117" alt="Bash" />
+      <img src="https://img.shields.io/badge/R-0D1117?style=for-the-badge&logo=r&logoColor=FDF6E3&labelColor=0D1117" alt="R" />
+      <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=E34F4F&labelColor=0D1117" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=F4A236&labelColor=0D1117" alt="Flask" />
     </td>
   </tr>
 
   <tr>
     <td align="left" width="50%" nowrap style="width:50%;">
-      <sup><b>⚙️ DATA PROCESSING &amp; BIG DATA</b></sup>
+      <sup><b>⌬ DATA PROCESSING &amp; BIG DATA</b></sup>
     </td>
       <td align="left" width="50%" style="width:50%;">
       <img src="https://img.shields.io/badge/Apache_Spark-0D1117?style=for-the-badge&logo=apachespark&logoColor=F4A236&labelColor=0D1117" alt="Spark" />
@@ -62,7 +65,7 @@
 
   <tr>
     <td align="left" width="50%" nowrap style="width:50%;">
-      <sup><b>⏱️ ORCHESTRATION &amp; PIPELINES</b></sup>
+      <sup><b>↹ ORCHESTRATION &amp; PIPELINES</b></sup>
     </td>
       <td align="left" width="50%" style="width:50%;">
       <img src="https://img.shields.io/badge/Apache_Airflow-0D1117?style=for-the-badge&logo=apacheairflow&logoColor=7FB5E0&labelColor=0D1117" alt="Airflow" />
@@ -72,11 +75,12 @@
 
   <tr>
     <td align="left" width="50%" nowrap style="width:50%;">
-      <sup><b>⛁ WAREHOUSING &amp; STORAGE</b></sup>
+      <sup><b>⊞ WAREHOUSING &amp; STORAGE</b></sup>
     </td>
       <td align="left" width="50%" style="width:50%;">
       <img src="https://img.shields.io/badge/Snowflake-0D1117?style=for-the-badge&logo=snowflake&logoColor=7FB5E0&labelColor=0D1117" alt="Snowflake" />
       <img src="https://img.shields.io/badge/BigQuery-0D1117?style=for-the-badge&logo=googlebigquery&logoColor=F4A236&labelColor=0D1117" alt="BigQuery" />
+      <img src="assets/duckdb-badge.svg" alt="DuckDB" />
     </td>
   </tr>
 
@@ -89,6 +93,17 @@
       <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=7FB5E0&labelColor=0D1117" alt="Docker" />
       <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E34F4F&labelColor=0D1117" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F4A236&labelColor=0D1117" alt="GitHub" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" width="50%" nowrap style="width:50%;">
+      <sup><b>◈ BI &amp; VISUALIZATION</b></sup>
+    </td>
+      <td align="left" width="50%" style="width:50%;">
+      <img src="assets/tableau-badge.svg" alt="Tableau" />
+      <img src="assets/quicksight-badge.svg" alt="QuickSight" />
+      <img src="assets/lookerstudio-badge.svg" alt="Looker Studio" />
     </td>
   </tr>
 </table>

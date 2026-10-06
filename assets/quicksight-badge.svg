@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="117" height="28" role="img" aria-label="QuickSight">
+  <title>QuickSight</title>
+  <g shape-rendering="crispEdges">
+    <rect width="32" height="28" fill="#0d1117"/>
+    <rect x="32" width="85" height="28" fill="#0d1117"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
+    <svg x="8" y="6" width="16" height="16" viewBox="0 0 40 40">
+      <path d="M37 9L20 26V12L3 29V3h34M1.746 0A1.758 1.758 0 0 0 0 1.743v36.51c.004.96.787 1.742 1.743 1.747h36.51A1.759 1.759 0 0 0 40 38.258V1.746A1.759 1.759 0 0 0 38.257 0H1.746z" fill="#00B7F4" fill-rule="evenodd"/>
+    </svg>
+    <text transform="scale(.1)" x="745" y="175" textLength="750" font-weight="bold">QuickSight</text>
+  </g>
+</svg>
