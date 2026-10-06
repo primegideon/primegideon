@@ -204,7 +204,8 @@
 <br><br>
 
 <p align="center">
-  <sub><sub>Last edited: October 2026</sub></sub>
+  <code>primegideon@aws:~$ connection closed.</code><br>
+  <code>primegideon@aws:~$ █</code>
 </p>
 
 <br>
