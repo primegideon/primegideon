@@ -66,7 +66,7 @@
     </td>
       <td align="left" width="50%" style="width:50%;">
       <img src="https://img.shields.io/badge/Apache_Airflow-0D1117?style=for-the-badge&logo=apacheairflow&logoColor=7FB5E0&labelColor=0D1117" alt="Airflow" />
-      <img src="assets/dbt-badge.svg" alt="dbt" />
+      <img src="assets/dbt-badge.svg?v=2" alt="dbt" />
     </td>
   </tr>
 
@@ -125,9 +125,9 @@
 
   <!-- Animated Contribution Snake -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/primegideon/primegideon/output/github-snake-dark.svg?v=5">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/primegideon/primegideon/output/github-snake.svg?v=5">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/primegideon/primegideon/output/github-snake-dark.svg?v=5" width="850">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/primegideon/primegideon/output/github-snake-dark.svg?v=6">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/primegideon/primegideon/output/github-snake.svg?v=6">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/primegideon/primegideon/output/github-snake-dark.svg?v=6" width="850">
   </picture>
 </div>
 
