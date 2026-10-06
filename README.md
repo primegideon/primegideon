@@ -123,10 +123,10 @@
   
   <br>
 
-  <!-- Live Contribution Graph -->
+  <!-- 3D Isometric Contribution Calendar -->
   <a href="https://github.com/primegideon">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=primegideon&bg_color=0D1117&color=E34F4F&line=F4A236&point=E34F4F&title_color=E34F4F&axes_color=7FB5E0&hide_border=true&area=true" alt="Gideon's Contribution Graph" width="850" />
-</a>
+    <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="Gideon's 3D Contribution Graph" width="850" />
+  </a>
 </div>
 
 <br><br>
