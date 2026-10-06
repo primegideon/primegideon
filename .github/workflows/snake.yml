@@ -7,6 +7,11 @@ on:
   
   # Allow manual trigger
   workflow_dispatch:
+  
+  # Run on push so it updates immediately
+  push:
+    branches:
+      - main
 
 jobs:
   build:
