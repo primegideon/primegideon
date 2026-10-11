@@ -15,22 +15,31 @@
   <a href="https://www.linkedin.com/in/gideon-amoah09/">
     <img src="https://img.shields.io/badge/PORTFOLIO-LINKEDIN-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=212121" alt="Portfolio" />
   </a>
+  <br>
+  <!-- Quick Navigation -->
+  <a href="#certifications">Certifications</a> &nbsp;·&nbsp;
+  <a href="#tech-stack">Tech Stack</a> &nbsp;·&nbsp;
+  <a href="#stats">Stats</a> &nbsp;·&nbsp;
+  <a href="#connect">Connect</a>
+  <br><br>
 
   <!-- The Glowing Divider -->
   <img src="assets/flux-divider.svg" alt="Divider" width="850" />
+</div>
 
-<h3 align="center">Featured Learning & Certifications</h3>
+<h3 align="center" id="certifications">Featured Learning & Certifications</h3>
 
 | &nbsp; | &nbsp; |
 | :--- | :--- |
-| 📚 **Google Data Analytics Certificate** <br> *Google Career Certificate* <br><br> End-to-end data processing, from rigorous cleaning and transformation to advanced visualization and reporting. <br><br> <sub>`Spreadsheets` · `SQL` · `Tableau` · `R`</sub> | 📌 **IBM Data Analytics Certificate** <br> *IBM Certificate Program* <br><br> Applied statistical analysis, data-driven decision making, and building advanced analytical workflows. <br><br> <sub>`Python` · `Pandas` · `Excel` · `SQL`</sub> |
-| 💻 **Fullstack Development (Python)** <br> *STARTOCODE - One Million Coders Programme* <br><br> Architecting robust, scalable backend systems and integrating full-stack web applications. <br><br> <sub>`Python` · `JavaScript` · `MySQL` · `Flask`</sub> | ☁️ **Future AWS Agentic AI Business Professional** <br> *AWS AI & ML Scholars Program* <br><br> Leveraging AI for operational efficiency, focusing on AI-driven decision-making, workflow automation, and building BI solutions with AI agents. <br><br> <sub>`AI Agents` · `Amazon QuickSight` · `Workflow Automation` · `AI Strategy`</sub> |
+| 📚 [**Google Data Analytics Certificate**](https://www.coursera.org/professional-certificates/google-data-analytics) <br> *Google Career Certificate · Coursera* <br><br> End-to-end data processing, from rigorous cleaning and transformation to advanced visualization and reporting. <br><br> <sub>`Spreadsheets` · `SQL` · `Tableau` · `R`</sub> | 📌 [**IBM Data Analytics Certificate**](https://skillsbuild.org/) <br> *IBM SkillsBuild · University of the People* <br><br> Applied data analytics and structured exploratory analysis, translating raw business datasets into decision models. <br><br> <sub>`Python` · `Pandas` · `Excel` · `SQL`</sub> |
+| 💻 [**Fullstack Development (Python)**](https://startocode.com/) <br> *STARTOCODE · One Million Coders Programme* <br><br> Architecting robust, scalable backend systems and integrating full-stack web applications. <br><br> <sub>`Python` · `JavaScript` · `MySQL` · `Flask`</sub> | ☁️ [**Future AWS Agentic AI Business Professional**](https://www.udacity.com/scholarships/aws-ai-ml-scholarship) <br> *Udacity Nanodegree · AWS AI & ML Scholars Program* <br><br> Leveraging AI for operational efficiency, focusing on AI-driven decision-making, workflow automation, and building BI solutions with AI agents. <br><br> <sub>`AI Agents` · `Amazon QuickSight` · `Workflow Automation` · `AI Strategy`</sub> |
+| 🛠️ [**Professional Data Engineer in Python**](https://www.datacamp.com/) <br> *DataCamp Career Track (Enrolled)* <br><br> Advanced curriculum focusing on production data pipelines, workflow orchestration, containerized environments, and big data transformations. <br><br> <sub>`PySpark` · `Apache Airflow` · `Docker` · `Data Pipelines`</sub> | 🌍 [**Data Science & Cloud Computing**](https://thriveafrica.co/) <br> *Thrive Africa Program* <br><br> Practical hands-on training analyzing large-scale datasets, querying cloud warehouses, and building interactive business intelligence reports. <br><br> <sub>`BigQuery` · `SQL` · `Looker Studio` · `AWS Cloud`</sub> |
 
  <!-- The Glowing Divider -->
   <img src="assets/flux-divider.svg" alt="Divider" width="850" />
 
  <br>
-<h3 align="center">Tech Stack & Tools</h3>
+<h3 align="center" id="tech-stack">Tech Stack & Tools</h3>
 
 <!-- ── DATA LANGUAGES & CORE TOOLS ── -->
 <table align="center" width="100%" cellpadding="16" cellspacing="0" style="width:100%;min-width:100%;table-layout:fixed;">
@@ -116,7 +125,7 @@
   
   <br><br>
   
-  <h3>Commit Chronicles</h3>
+  <h3 id="stats">Commit Chronicles</h3>
   
   <br>
 
@@ -134,15 +143,15 @@
 <br>
 
 <div align="center">
-  <h3>Watch My Commits Vanish Into Oblivion</h3>
+  <h3 id="snake">Watch My Commits Vanish Into Oblivion</h3>
   
   <br>
 
   <!-- Animated Contribution Snake -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/primegideon/primegideon/output/github-snake-dark.svg?v=9">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/primegideon/primegideon/output/github-snake.svg?v=9">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/primegideon/primegideon/output/github-snake-dark.svg?v=9" width="850">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/primegideon/primegideon/output/github-snake-dark.svg?v=10">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/primegideon/primegideon/output/github-snake.svg?v=10">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/primegideon/primegideon/output/github-snake-dark.svg?v=10" width="850">
   </picture>
 </div>
 
@@ -154,7 +163,7 @@
 
 <!-- ── NOW PLAYING ─────────────────────────────────────────────────────────── -->
 <div align="center">
-  <h3>Now Playing</h3>
+  <h3 id="now-playing">Now Playing</h3>
   <br>
   <img src="https://now-playing-rho.vercel.app/api/nowplaying" alt="Now Playing" width="740" />
   <br><br>
@@ -169,7 +178,7 @@
 <br>
 
 <div align="center">
-  <h3>Let's Connect</h3>
+  <h3 id="connect">Let's Connect</h3>
   <br>
   <!-- Social Badges -->
   <a href="https://www.linkedin.com/in/gideon-amoah09/">
