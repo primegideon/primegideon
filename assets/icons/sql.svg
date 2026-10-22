@@ -1,0 +1,12 @@
+<svg width="48" height="48" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" fill="#242938" rx="60"/>
+  <g transform="translate(32.62, 38.58) scale(1.4904)">
+    <g>
+  <ellipse cx="64" cy="24" rx="48" ry="16" fill="#00758F"/>
+  <path d="M16 24V48C16 56.84 37.49 64 64 64C90.51 64 112 56.84 112 48V24C112 32.84 90.51 40 64 40C37.49 40 16 32.84 16 24Z" fill="#005C70"/>
+  <path d="M16 48V72C16 80.84 37.49 88 64 88C90.51 88 112 80.84 112 72V48C112 60.84 90.51 64 64 64C37.49 64 16 60.84 16 48Z" fill="#004655"/>
+  <path d="M16 72V96C16 104.84 37.49 112 64 112C90.51 112 112 104.84 112 96V72C112 84.84 90.51 88 64 88C37.49 88 16 84.84 16 72Z" fill="#003541"/>
+  <text x="64" y="80" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="900" font-size="34" fill="#FFFFFF" letter-spacing="1">SQL</text>
+</g>
+  </g>
+</svg>

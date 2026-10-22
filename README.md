@@ -41,81 +41,32 @@
  <br>
 <h3 align="center" id="tech-stack">Tech Stack & Tools</h3>
 
-<!-- ── DATA LANGUAGES & CORE TOOLS ── -->
-<table align="center" width="100%" cellpadding="16" cellspacing="0" style="width:100%;min-width:100%;table-layout:fixed;">
-  <colgroup>
-    <col width="50%" />
-    <col width="50%" />
-  </colgroup>
-  <tr>
-    <td align="left" width="50%" nowrap style="width:50%;">
-      <sup><b>⟨/⟩ LANGUAGES &amp; SCRIPTING</b></sup>
-    </td>
-    <td align="left" width="50%" style="width:50%;">
-      <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=E34F4F&labelColor=0D1117" alt="Python" />
-      <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F4A236&labelColor=0D1117" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=7FB5E0&labelColor=0D1117" alt="Bash" />
-      <img src="https://img.shields.io/badge/R-0D1117?style=for-the-badge&logo=r&logoColor=FDF6E3&labelColor=0D1117" alt="R" />
-      <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=E34F4F&labelColor=0D1117" alt="MySQL" />
-      <img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=F4A236&labelColor=0D1117" alt="Flask" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="left" width="50%" nowrap style="width:50%;">
-      <sup><b>⌬ DATA PROCESSING &amp; BIG DATA</b></sup>
-    </td>
-      <td align="left" width="50%" style="width:50%;">
-      <img src="https://img.shields.io/badge/Apache_Spark-0D1117?style=for-the-badge&logo=apachespark&logoColor=F4A236&labelColor=0D1117" alt="Spark" />
-      <img src="https://img.shields.io/badge/Databricks-0D1117?style=for-the-badge&logo=databricks&logoColor=E34F4F&labelColor=0D1117" alt="Databricks" />
-      <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=7FB5E0&labelColor=0D1117" alt="Pandas" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="left" width="50%" nowrap style="width:50%;">
-      <sup><b>↹ ORCHESTRATION &amp; PIPELINES</b></sup>
-    </td>
-      <td align="left" width="50%" style="width:50%;">
-      <img src="https://img.shields.io/badge/Apache_Airflow-0D1117?style=for-the-badge&logo=apacheairflow&logoColor=7FB5E0&labelColor=0D1117" alt="Airflow" />
-      <img src="assets/dbt-badge.svg?v=2" alt="dbt" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="left" width="50%" nowrap style="width:50%;">
-      <sup><b>⊞ WAREHOUSING &amp; STORAGE</b></sup>
-    </td>
-      <td align="left" width="50%" style="width:50%;">
-      <img src="https://img.shields.io/badge/Snowflake-0D1117?style=for-the-badge&logo=snowflake&logoColor=7FB5E0&labelColor=0D1117" alt="Snowflake" />
-      <img src="https://img.shields.io/badge/BigQuery-0D1117?style=for-the-badge&logo=googlebigquery&logoColor=F4A236&labelColor=0D1117" alt="BigQuery" />
-      <img src="assets/duckdb-badge.svg" alt="DuckDB" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="left" width="50%" nowrap style="width:50%;">
-      <sup><b>☁ CLOUD &amp; DEVOPS</b></sup>
-    </td>
-      <td align="left" width="50%" style="width:50%;">
-      <img src="assets/aws-badge.svg" alt="AWS" />
-      <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=7FB5E0&labelColor=0D1117" alt="Docker" />
-      <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E34F4F&labelColor=0D1117" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F4A236&labelColor=0D1117" alt="GitHub" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="left" width="50%" nowrap style="width:50%;">
-      <sup><b>◈ BI &amp; VISUALIZATION</b></sup>
-    </td>
-      <td align="left" width="50%" style="width:50%;">
-      <img src="assets/tableau-badge.svg" alt="Tableau" />
-      <img src="assets/quicksight-badge.svg" alt="QuickSight" />
-      <img src="assets/lookerstudio-badge.svg" alt="Looker Studio" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <p align="center">
+    <img src="assets/icons/python.svg" alt="Python" title="Python" width="48" height="48" />&nbsp;
+    <img src="assets/icons/sql.svg" alt="SQL" title="SQL" width="48" height="48" />&nbsp;
+    <img src="assets/icons/bash.svg" alt="Bash / Shell" title="Bash / Shell" width="48" height="48" />&nbsp;
+    <img src="assets/icons/git.svg" alt="Git" title="Git" width="48" height="48" />&nbsp;
+    <img src="assets/icons/github.svg" alt="GitHub" title="GitHub" width="48" height="48" />&nbsp;
+    <img src="assets/icons/docker.svg" alt="Docker" title="Docker" width="48" height="48" />&nbsp;
+    <img src="assets/icons/kubernetes.svg" alt="Kubernetes" title="Kubernetes" width="48" height="48" />&nbsp;
+    <img src="assets/icons/kafka.svg" alt="Apache Kafka" title="Apache Kafka" width="48" height="48" />&nbsp;
+    <img src="assets/icons/aws.svg" alt="AWS" title="AWS" width="48" height="48" />&nbsp;
+    <img src="assets/icons/spark.svg" alt="Apache Spark" title="Apache Spark" width="48" height="48" />&nbsp;
+    <img src="assets/icons/databricks.svg" alt="Databricks" title="Databricks" width="48" height="48" />
+    <br><br>
+    <img src="assets/icons/airflow.svg" alt="Apache Airflow" title="Apache Airflow" width="48" height="48" />&nbsp;
+    <img src="assets/icons/dbt.svg" alt="dbt" title="dbt" width="48" height="48" />&nbsp;
+    <img src="assets/icons/snowflake.svg" alt="Snowflake" title="Snowflake" width="48" height="48" />&nbsp;
+    <img src="assets/icons/fabric.svg" alt="Microsoft Fabric" title="Microsoft Fabric" width="48" height="48" />&nbsp;
+    <img src="assets/icons/powerbi.svg" alt="Power BI" title="Power BI" width="48" height="48" />&nbsp;
+    <img src="assets/icons/tableau.svg" alt="Tableau" title="Tableau" width="48" height="48" />&nbsp;
+    <img src="assets/icons/looker.svg" alt="Looker Studio" title="Looker Studio" width="48" height="48" />&nbsp;
+    <img src="assets/icons/excel.svg" alt="Microsoft Excel" title="Microsoft Excel" width="48" height="48" />&nbsp;
+    <img src="assets/icons/quick.svg" alt="Amazon Quick" title="Amazon Quick" width="48" height="48" />&nbsp;
+    <img src="assets/icons/evidence.svg" alt="Evidence.dev" title="Evidence.dev" width="48" height="48" />
+  </p>
+</div>
 
   <br><br>
 
