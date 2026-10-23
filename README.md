@@ -48,13 +48,16 @@
     <img src="assets/icons/bash.svg" alt="Bash / Shell" title="Bash / Shell" width="48" height="48" />&nbsp;
     <img src="assets/icons/git.svg" alt="Git" title="Git" width="48" height="48" />&nbsp;
     <img src="assets/icons/github.svg" alt="GitHub" title="GitHub" width="48" height="48" />&nbsp;
+    <img src="assets/icons/vscode.svg" alt="VS Code" title="VS Code" width="48" height="48" />&nbsp;
+    <img src="assets/icons/antigravity.svg" alt="Antigravity" title="Antigravity" width="48" height="48" />&nbsp;
+    <img src="assets/icons/bob.svg" alt="IBM Bob" title="IBM Bob" width="48" height="48" />&nbsp;
     <img src="assets/icons/docker.svg" alt="Docker" title="Docker" width="48" height="48" />&nbsp;
     <img src="assets/icons/kubernetes.svg" alt="Kubernetes" title="Kubernetes" width="48" height="48" />&nbsp;
     <img src="assets/icons/kafka.svg" alt="Apache Kafka" title="Apache Kafka" width="48" height="48" />&nbsp;
-    <img src="assets/icons/aws.svg" alt="AWS" title="AWS" width="48" height="48" />&nbsp;
-    <img src="assets/icons/spark.svg" alt="Apache Spark" title="Apache Spark" width="48" height="48" />&nbsp;
-    <img src="assets/icons/databricks.svg" alt="Databricks" title="Databricks" width="48" height="48" />
+    <img src="assets/icons/aws.svg" alt="AWS" title="AWS" width="48" height="48" />
     <br><br>
+    <img src="assets/icons/spark.svg" alt="Apache Spark" title="Apache Spark" width="48" height="48" />&nbsp;
+    <img src="assets/icons/databricks.svg" alt="Databricks" title="Databricks" width="48" height="48" />&nbsp;
     <img src="assets/icons/airflow.svg" alt="Apache Airflow" title="Apache Airflow" width="48" height="48" />&nbsp;
     <img src="assets/icons/dbt.svg" alt="dbt" title="dbt" width="48" height="48" />&nbsp;
     <img src="assets/icons/snowflake.svg" alt="Snowflake" title="Snowflake" width="48" height="48" />&nbsp;
