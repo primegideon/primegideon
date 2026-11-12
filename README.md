@@ -97,15 +97,15 @@
 <br>
 
 <div align="center">
-  <h3 id="snake">Watch My Commits Vanish Into Oblivion</h3>
+  <h3 id="pacman">Watch My Commits Get Gobbled Up</h3>
   
   <br>
 
-  <!-- Animated Contribution Snake -->
+  <!-- Pac-Man Contribution Graph -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/primegideon/primegideon/output/github-snake-dark.svg?v=10">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/primegideon/primegideon/output/github-snake.svg?v=10">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/primegideon/primegideon/output/github-snake-dark.svg?v=10" width="850">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/primegideon/primegideon/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/primegideon/primegideon/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/primegideon/primegideon/output/pacman-contribution-graph-dark.svg" width="850">
   </picture>
 </div>
 
@@ -156,7 +156,7 @@
 <div align="center">
   <!-- Dynamic Cyberpunk Quote Generator -->
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=0D1117&quoteColor=FDF6E3&authorColor=7FB5E0&symbolColor=E34F4F" alt="Random Programming Quote" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=0D1117&quoteColor=FDF6E3&authorColor=7FB5E0&symbolColor=B362FF" alt="Random Programming Quote" />
   </a>
 </div>
 
